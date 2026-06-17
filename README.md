@@ -14,13 +14,14 @@ z użytkowników.
 
 ## Zrzuty ekranu
 
-<a href="https://imgbox.com/xm3gYX2p" target="_blank"><img src="https://thumbs2.imgbox.com/f8/a4/xm3gYX2p_t.jpg" alt="image host"/></a> <a href="https://imgbox.com/SLINdBDm" target="_blank"><img src="https://thumbs2.imgbox.com/96/20/SLINdBDm_t.jpg" alt="image host"/></a>
+![alt text](https://github.com/ProperCode/Smart-English/blob/main/inne/screenshots/Screenshot%201.jpg)
+![alt text](https://github.com/ProperCode/Smart-English/blob/main/inne/screenshots/Screenshot%202.jpg)
 
 ## Zgłaszanie błędów i opinii
 Jeśli chcesz zgłosić błąd lub przesłać mi opinie, możesz to zrobić wysyłając mi e-mail na ![alt text](https://raw.githubusercontent.com/ProperCode/Work-by-Speech/master/other/images/email.jpg) .
 Proszę o podanie jak największej ilości informacji i, jeśli to konieczne, dołączenie zrzutów ekranu(ów).
 
 ## Moje inne projekty open source
-[Work by Speech](https://github.com/ProperCode/Work-by-Speech)<br/>
-[Clickless Mouse](https://github.com/ProperCode/clickless-mouse)<br/>
-[Aspiring Keyboard](https://github.com/ProperCode/Aspiring-Keyboard)<br/><br/>
+[Work by Speech](https://github.com/ProperCode/Work-by-Speech)<br/><br/>
+[Clickless Mouse](https://github.com/ProperCode/clickless-mouse)<br/><br/>
+[Aspiring Keyboard](https://github.com/ProperCode/Aspiring-Keyboard)<br/>
