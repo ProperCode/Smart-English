@@ -5,13 +5,12 @@
 
 ## Opis
 
-Smart English uczy 5000 najczęściej używanych słów poprzez zdania. W zdaniach jest łącznie 7511 unikalnych słów (poziom C1).</br></br>
-Dzięki systemowi powtórek możesz znacznie szybciej nauczyć się tłumaczyć zdania, ponieważ nie musisz powtarzać zdań, które już umiesz przetłumaczyć.</br>
-Nauka jest podzielona na poziomy zaawansowania (od A1 do C1). Program umożliwia naukę w trybie automatycznym, półautomatycznym i ręcznym. </br>
-W trybie automatycznym zdania są pokazywane automatycznie i użytkownik nic nie musi robić. </br>
-W trybie półautomatycznym tłumaczenie pojawia się po zadanym czasie, a następnie użytkownik odpowiada czy znał tłumaczenie.</br>
-W trybie ręcznym to użytkownik pokazuje tłumaczenie, a następnie odpowiada czy je znał. Zdania, które prezentuje program mogą być czytane na głos.</br>
-Program umożliwia utworzenie osobnego profilu dla każdego z użytkowników.
+Smart English uczy 5000 najczęściej używanych słów poprzez zdania. W zdaniach jest łącznie 7511 unikalnych słów (poziom C1). Dzięki systemowi powtórek możesz znacznie szybciej nauczyć się 
+tłumaczyć zdania, ponieważ nie musisz powtarzać zdań, które już umiesz przetłumaczyć. Nauka jest podzielona na poziomy zaawansowania (od A1 do C1).
+Program umożliwia naukę w trybie automatycznym, półautomatycznym i ręcznym. W trybie automatycznym 
+zdania są pokazywane automatycznie i użytkownik nic nie musi robić. W trybie półautomatycznym tłumaczenie pojawia się po zadanym czasie, a następnie użytkownik odpowiada czy znał tłumaczenie.
+W trybie ręcznym to użytkownik pokazuje tłumaczenie, a następnie odpowiada czy je znał. Zdania, które prezentuje program mogą być czytane na głos. Program umożliwia utworzenie osobnego profilu dla każdego 
+z użytkowników.
 
 ## Zrzuty ekranu
 
