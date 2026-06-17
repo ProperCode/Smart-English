@@ -1,0 +1,32 @@
+﻿<Window x:Class="Smart_English.WindowLearningAuto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Smart_English"
+        mc:Ignorable="d"
+        Title="Smart English - Nauka" Height="320" Width="735"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="Gray" Closing="Window_Closing">
+    <Grid Width="700" Height="275">
+        <RichTextBox x:Name="RTB" Padding="10" Height="180" VerticalAlignment="top">
+            <FlowDocument>
+                <Paragraph x:Name="Penglish" FontSize="18" FontFamily="Calibri" TextAlignment="Left" Foreground="Blue">
+                    Marine biologists are working tirelessly to protect the endangered coral reef ecosystems worldwide.
+                </Paragraph>
+                <Paragraph x:Name="Ppolish" FontSize="18" FontFamily="Calibri" TextAlignment="Left" Foreground="Black">
+                    Biolodzy morscy pracują niestrudzenie, aby chronić zagrożone ekosystemy raf koralowych na całym świecie.
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="Bzakoncz_nauke" Content="Zakończ naukę" Foreground="Black" BorderBrush="Black" Cursor="Hand"
+FontSize="18" Click="Bzakoncz_nauke_Click" Margin="0,185,0,10">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" 
+     StartPoint="0.5,0">
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFCDCDCD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,45 @@
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\Smart English.exe
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\Smart English.deps.json
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\Smart English.runtimeconfig.json
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\Smart English.pdb
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\System.Speech.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\runtimes\win\lib\net10.0\System.Speech.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.csproj.AssemblyReference.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\MainWindow.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowAbout.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowAddProfile.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowChangelog.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowEULA.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowHelp2.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowLearningAuto.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowLearningManual.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowLearningSemi.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowProfiles.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\App.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English_Content.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English_MarkupCompile.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English_MarkupCompile.lref
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\MainWindow.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowAbout.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowAddProfile.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowChangelog.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowEULA.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowHelp2.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowLearningAuto.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowLearningManual.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowLearningSemi.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\WindowProfiles.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.g.resources
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.AssemblyInfoInputs.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.AssemblyInfo.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart En.53DE6774.Up2Date
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\refint\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.pdb
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\Smart English.genruntimeconfig.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Release\net10.0-windows10.0.19041.0\ref\Smart English.dll

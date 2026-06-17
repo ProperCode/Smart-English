@@ -1,0 +1,30 @@
+﻿<Window x:Name="Wdodaj_profil" x:Class="Smart_English.WindowAddProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Smart_English"
+        mc:Ignorable="d"
+        Title="Utwórz Profil" Height="249" Width="336" FontSize="14"
+        WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="/Smart English.png">
+    <Grid>
+        <Label x:Name="Lnr" Content="Nazwa:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TBnazwa" HorizontalAlignment="Left" Width="240" Height="23" Margin="69,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <GroupBox x:Name="GBplec" Header="Płeć" HorizontalAlignment="Left" Width="298" Height="94" Margin="11,44,0,0" VerticalAlignment="Top" Foreground="Black">
+            <Grid>
+                <RadioButton x:Name="RBkobieta" Content="Kobieta" HorizontalAlignment="Left" Margin="10,10,0,0" Checked="RBkobieta_Checked"/>
+                <RadioButton x:Name="RBmezczyzna" Content="Mężczyzna" HorizontalAlignment="Left" Margin="10,40,0,0" Checked="RBmezczyzna_Checked"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="Butworz" Content="Utwórz" Foreground="Black" BorderBrush="Black" 
+FontSize="16" Click="Butworz_Click" Margin="11,152,182,13" Cursor="Hand">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" 
+     StartPoint="0.5,0">
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFCDCDCD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

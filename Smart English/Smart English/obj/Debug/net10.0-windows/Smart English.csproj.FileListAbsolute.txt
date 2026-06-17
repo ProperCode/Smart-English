@@ -1,0 +1,37 @@
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Smart English.exe
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Smart English.deps.json
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Smart English.runtimeconfig.json
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Smart English.pdb
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.csproj.AssemblyReference.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English_MarkupCompile.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English_MarkupCompile.lref
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.g.resources
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.AssemblyInfoInputs.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.AssemblyInfo.cs
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart En.53DE6774.Up2Date
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\refint\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.pdb
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.genruntimeconfig.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\ref\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Interop.SpeechLib.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.csproj.ResolveComReference.cache
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.Foundation.Logging.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.Foundation.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.Composition.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.Dispatching.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.Toolkit.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.UI.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.Xaml.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net10.0-windows\Uno.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net10.0-windows\Smart English.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig

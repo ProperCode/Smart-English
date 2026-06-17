@@ -1,0 +1,2 @@
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\win-x86\publish\Smart English.pdb
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net10.0-windows10.0.19041.0\win-x86\publish\Smart English.exe

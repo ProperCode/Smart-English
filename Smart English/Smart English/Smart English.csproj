@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+	 <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <RootNamespace>Smart_English</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <PackageIcon>Smart English.png</PackageIcon>
+    <ApplicationIcon>Smart English.ico</ApplicationIcon>
+	<PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x86</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Smart English.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Smart English.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Speech" Version="10.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Smart English.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="WindowHelp2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowLearningManual.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowLearningAuto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
