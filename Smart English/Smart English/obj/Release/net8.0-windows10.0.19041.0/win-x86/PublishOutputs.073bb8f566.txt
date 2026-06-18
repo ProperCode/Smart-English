@@ -1,0 +1,7 @@
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\Smart English.pdb
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\D3DCompiler_47_cor3.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\PenImc_cor3.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\PresentationNative_cor3.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\vcruntime140_cor3.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\wpfgfx_cor3.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Release\net8.0-windows10.0.19041.0\win-x86\publish\Smart English.exe

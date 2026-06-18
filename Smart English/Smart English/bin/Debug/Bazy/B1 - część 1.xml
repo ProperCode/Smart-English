@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sentence>
+    <sentence_en>We saw wild horses running near the wide river.</sentence_en>
+    <sentence_pl>Widzieliśmy dzikie konie biegające w pobliżu szerokiej rzeki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>That is a completely ridiculous idea, it won't work.</sentence_en>
+    <sentence_pl>To całkowicie niedorzeczny pomysł, to nie zadziała.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The rules of the classic game are simply beautiful.</sentence_en>
+    <sentence_pl>Zasady klasycznej gry są po prostu piękne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The lion is a powerful and dangerous wild animal.</sentence_en>
+    <sentence_pl>Lew to potężne i niebezpieczne dzikie zwierzę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The students set up a summer camp near forest.</sentence_en>
+    <sentence_pl>Uczniowie rozbili obóz letni w pobliżu lasu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She needs immediate medical attention after the car accident.</sentence_en>
+    <sentence_pl>Ona potrzebuje natychmiastowej opieki medycznej po wypadku samochodowym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is a real shame that you cannot join.</sentence_en>
+    <sentence_pl>To prawdziwa szkoda, że nie możesz dołączyć.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>To whom it may concern.</sentence_en>
+    <sentence_pl>Kogo może to dotyczyć.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>A small bird was singing on the branch.</sentence_en>
+    <sentence_pl>Mały ptak śpiewał na gałęzi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Your Majesty, the guests have arrived.</sentence_en>
+    <sentence_pl>Wasza Wysokość, goście przybyli.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She wants to be a famous actress.</sentence_en>
+    <sentence_pl>Ona chce być sławną aktorką.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The baby is finally asleep.</sentence_en>
+    <sentence_pl>Dziecko w końcu śpi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She is a true natural beauty.</sentence_en>
+    <sentence_pl>Ona jest prawdziwym naturalnym pięknem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The taxi driver was very polite.</sentence_en>
+    <sentence_pl>Kierowca taksówki był bardzo uprzejmy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I love the sound of rain.</sentence_en>
+    <sentence_pl>Uwielbiam dźwięk deszczu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The weather today is absolutely awful.</sentence_en>
+    <sentence_pl>Pogoda dzisiaj jest absolutnie okropna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They live in a very large house.</sentence_en>
+    <sentence_pl>Oni mieszkają w bardzo dużym domu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We should support local businesses.</sentence_en>
+    <sentence_pl>Powinniśmy wspierać lokalne firmy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You deserve to be happy.</sentence_en>
+    <sentence_pl>Zasługujesz na to, by być szczęśliwym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Turn off that goddamn noise!</sentence_en>
+    <sentence_pl>Wyłącz ten cholerny hałas!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He threw a stone into the river.</sentence_en>
+    <sentence_pl>Wrzucił kamień do rzeki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She moves with such grace.</sentence_en>
+    <sentence_pl>Ona porusza się z taką gracją.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please consider my offer.</sentence_en>
+    <sentence_pl>Proszę rozważ moją ofertę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>What are your plans for the weekend?</sentence_en>
+    <sentence_pl>Jakie masz plany na weekend?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You can lay your coat on the bed.</sentence_en>
+    <sentence_pl>Możesz położyć swój płaszcz na łóżku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't rush, we have plenty of time.</sentence_en>
+    <sentence_pl>Nie spiesz się, mamy mnóstwo czasu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I am willing to help you with this project.</sentence_en>
+    <sentence_pl>Jestem gotów pomóc ci przy tym projekcie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Goodnight, my sweetheart.</sentence_en>
+    <sentence_pl>Dobranoc, kochanie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Use sunscreen to protect your skin.</sentence_en>
+    <sentence_pl>Używaj kremu z filtrem, aby chronić swoją skórę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This is an excellent opportunity for us.</sentence_en>
+    <sentence_pl>To jest dla nas doskonała okazja.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't listen to that asshole.</sentence_en>
+    <sentence_pl>Nie słuchaj tego dupka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We spent the whole day at the beach.</sentence_en>
+    <sentence_pl>Spędziliśmy cały dzień na plaży.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You need to have faith in yourself.</sentence_en>
+    <sentence_pl>Musisz mieć wiarę w siebie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I beg you to forgive me.</sentence_en>
+    <sentence_pl>Błagam cię, wybacz mi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Who is responsible for this mess?</sentence_en>
+    <sentence_pl>Kto jest odpowiedzialny za ten bałagan?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He decided to join the military.</sentence_en>
+    <sentence_pl>Zdecydował się wstąpić do wojska.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It was a great opportunity to learn.</sentence_en>
+    <sentence_pl>To była świetna okazja do nauki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Colds are very common in winter.</sentence_en>
+    <sentence_pl>Przeziębienia są bardzo powszechne zimą.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The answers are at the bottom of the page.</sentence_en>
+    <sentence_pl>Odpowiedzi znajdują się na dole strony.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Whoever did this will pay for it.</sentence_en>
+    <sentence_pl>Ktokolwiek to zrobił, zapłaci za to.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>My father loves to cook Italian food.</sentence_en>
+    <sentence_pl>Mój ojciec uwielbia gotować włoskie jedzenie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We are fighting for social justice.</sentence_en>
+    <sentence_pl>Walczymy o sprawiedliwość społeczną.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The meeting will be held in the main hall.</sentence_en>
+    <sentence_pl>Spotkanie odbędzie się w głównej hali.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The commander gave the order to attack.</sentence_en>
+    <sentence_pl>Dowódca wydał rozkaz do ataku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Doctors prescribed a new drug for her.</sentence_en>
+    <sentence_pl>Lekarze przepisali jej nowy lek.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>What is the main reason for your visit?</sentence_en>
+    <sentence_pl>Jaki jest główny powód twojej wizyty?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Be careful, that knife is very sharp.</sentence_en>
+    <sentence_pl>Uważaj, ten nóż jest bardzo ostry.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They say the devil is in the detail, so we need to check this contract very carefully before signing it.</sentence_en>
+    <sentence_pl>Mówi się, że diabeł tkwi w szczegółach, więc musimy bardzo dokładnie sprawdzić tę umowę przed jej podpisaniem. </sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is necessary to wear a helmet.</sentence_en>
+    <sentence_pl>Noszenie kasku jest konieczne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Although it was raining, we went for a walk.</sentence_en>
+    <sentence_pl>Chociaż padało, poszliśmy na spacer.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I am afraid of flying.</sentence_en>
+    <sentence_pl>Boję się latania.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Stop being a dick to your brother.</sentence_en>
+    <sentence_pl>Przestań być kutasem dla swojego brata.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He gave her a red rose.</sentence_en>
+    <sentence_pl>Dał jej czerwoną różę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Knowing him, he will be late.</sentence_en>
+    <sentence_pl>Znając go, spóźni się.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I can see the mountains clearly today.</sentence_en>
+    <sentence_pl>Widzę dzisiaj wyraźnie góry.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He wore a funny black hat.</sentence_en>
+    <sentence_pl>Nosił zabawny czarny kapelusz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The shop is just around the corner.</sentence_en>
+    <sentence_pl>Sklep jest tuż za rogiem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Enter the security code to unlock the door.</sentence_en>
+    <sentence_pl>Wprowadź kod bezpieczeństwa, aby odblokować drzwi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Leave me a note if you go out.</sentence_en>
+    <sentence_pl>Zostaw mi wiadomość, jeśli wyjdziesz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The rent is due tomorrow.</sentence_en>
+    <sentence_pl>Termin płatności czynszu mija jutro.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Is this the correct answer?</sentence_en>
+    <sentence_pl>Czy to jest prawidłowa odpowiedź?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I apologize for my late response.</sentence_en>
+    <sentence_pl>Przepraszam za moją opóźnioną odpowiedź.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Learning a new language takes time.</sentence_en>
+    <sentence_pl>Nauka nowego języka wymaga czasu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a very nice young fellow.</sentence_en>
+    <sentence_pl>To bardzo miły młody człowiek.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I have read several books this month.</sentence_en>
+    <sentence_pl>Przeczytałem kilka książek w tym miesiącu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>A good leader listens to his team.</sentence_en>
+    <sentence_pl>Dobry lider słucha swojego zespołu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We tried a new Italian restaurant last night.</sentence_en>
+    <sentence_pl>Wczoraj wieczorem wypróbowaliśmy nową włoską restaurację.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sun rises in the east.</sentence_en>
+    <sentence_pl>Słońce wschodzi na wschodzie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She has been blind since birth.</sentence_en>
+    <sentence_pl>Ona jest niewidoma od urodzenia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do you believe in ghosts?</sentence_en>
+    <sentence_pl>Czy wierzysz w duchy?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Would you like a cup of coffee?</sentence_en>
+    <sentence_pl>Czy chciałbyś filiżankę kawy?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>These shoes are too tight for me.</sentence_en>
+    <sentence_pl>Te buty są dla mnie za ciasne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We had a long conversation about future plans.</sentence_en>
+    <sentence_pl>Odbyliśmy długą rozmowę o planach na przyszłość.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He can neither read nor write.</sentence_en>
+    <sentence_pl>On nie potrafi ani czytać, ani pisać.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please reduce your speed in this area.</sentence_en>
+    <sentence_pl>Proszę zmniejszyć prędkość w tym obszarze.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Regular exercise is good for your health.</sentence_en>
+    <sentence_pl>Regularne ćwiczenia są dobre dla twojego zdrowia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Thank you for your useful advice.</sentence_en>
+    <sentence_pl>Dziękuję za twoją przydatną radę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The view beyond the valley was beautiful.</sentence_en>
+    <sentence_pl>Widok za doliną był piękny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It's an important rule to remember.</sentence_en>
+    <sentence_pl>To ważna zasada, o której warto pamiętać.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I could hardly hear what he was saying.</sentence_en>
+    <sentence_pl>Ledwo słyszałem, co mówił.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I cannot possibly finish this today.</sentence_en>
+    <sentence_pl>Nie mam możliwości ukończyć tego dzisiaj.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The health inspector checked the kitchen.</sentence_en>
+    <sentence_pl>Inspektor sanitarny skontrolował kuchnię.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>My cousin is coming to visit us.</sentence_en>
+    <sentence_pl>Mój kuzyn przyjeżdża nas odwiedzić.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The murder trial will begin next week.</sentence_en>
+    <sentence_pl>Proces o morderstwo rozpocznie się w przyszłym tygodniu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>In case of emergency, call 112.</sentence_en>
+    <sentence_pl>W nagłych wypadkach dzwoń pod numer 112.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You ought to apologize to her.</sentence_en>
+    <sentence_pl>Powinieneś ją przeprosić.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We will find a way out somehow.</sentence_en>
+    <sentence_pl>Jakoś znajdziemy wyjście.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I need to open a bank account.</sentence_en>
+    <sentence_pl>Muszę założyć konto bankowe.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please save the file on your computer.</sentence_en>
+    <sentence_pl>Proszę zapisać plik na komputerze.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You are an angel for helping me.</sentence_en>
+    <sentence_pl>Jesteś aniołem, że mi pomagasz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Use some tape to fix the box.</sentence_en>
+    <sentence_pl>Użyj taśmy, aby naprawić pudełko.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do you drink milk with your cereal?</sentence_en>
+    <sentence_pl>Czy pijesz mleko z twoimi płatkami?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The engine is very powerful.</sentence_en>
+    <sentence_pl>Silnik jest bardzo potężny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Soccer practice starts at 5 PM.</sentence_en>
+    <sentence_pl>Trening piłki nożnej zaczyna się o 17:00.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I want to speak with the manager.</sentence_en>
+    <sentence_pl>Chcę rozmawiać z menedżerem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Beg your pardon, I didn't hear you.</sentence_en>
+    <sentence_pl>Słucham? Nie usłyszałem cię.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't forget to vote in the election.</sentence_en>
+    <sentence_pl>Nie zapomnij zagłosować w wyborach.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Today is a national holiday.</sentence_en>
+    <sentence_pl>Dzisiaj jest święto narodowe.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She wants to build a career in law.</sentence_en>
+    <sentence_pl>Ona chce zbudować karierę w prawie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The prime minister made a speech today.</sentence_en>
+    <sentence_pl>Premier wygłosił dzisiaj przemówienie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Wow, that's a super idea!</sentence_en>
+    <sentence_pl>Wow, to świetny pomysł!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This juice is 100% natural.</sentence_en>
+    <sentence_pl>Ten sok jest w stu procentach naturalny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you make a copy of this document?</sentence_en>
+    <sentence_pl>Czy możesz zrobić kopię tego dokumentu?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Two plus two equals four.</sentence_en>
+    <sentence_pl>Dwa plus dwa równa się cztery.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She baked a delicious chocolate cake.</sentence_en>
+    <sentence_pl>Upiekła pyszne ciasto czekoladowe.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Everyone has the right to freedom.</sentence_en>
+    <sentence_pl>Każdy ma prawo do wolności.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He was standing among the crowd.</sentence_en>
+    <sentence_pl>Stał pośród tłumu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Take a deep breath and relax.</sentence_en>
+    <sentence_pl>Weź głęboki oddech i zrelaksuj się.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The medical operation was successful.</sentence_en>
+    <sentence_pl>Operacja medyczna zakończyła się sukcesem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The ship's crew prepared for departure.</sentence_en>
+    <sentence_pl>Załoga statku przygotowała się do odpłynięcia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Climbing this mountain is a huge challenge.</sentence_en>
+    <sentence_pl>Wspinaczka na tę górę to ogromne wyzwanie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I buy fresh vegetables at the local market.</sentence_en>
+    <sentence_pl>Kupuję świeże warzywa na lokalnym targu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She doesn't eat meat; She is a vegetarian.</sentence_en>
+    <sentence_pl>Ona nie je mięsa; jest wegetarianką.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She walked towards the exit.</sentence_en>
+    <sentence_pl>Szła w kierunku wyjścia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a diligent university student.</sentence_en>
+    <sentence_pl>On jest pilnym studentem uniwersytetu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She found the strength to carry on.</sentence_en>
+    <sentence_pl>Znazła siłę, by iść dalej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>What size shoe do you wear?</sentence_en>
+    <sentence_pl>Jaki rozmiar buta nosisz?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is hard to breathe in this room.</sentence_en>
+    <sentence_pl>Trudno się oddycha w tym pokoju.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Blue is my favorite color.</sentence_en>
+    <sentence_pl>Niebieski to mój ulubiony kolor.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There is no monster under your bed.</sentence_en>
+    <sentence_pl>Pod twoim łóżkiem nie ma potwora.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The music was too loud.</sentence_en>
+    <sentence_pl>Muzyka była za głośna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you take a photo of us?</sentence_en>
+    <sentence_pl>Czy możesz zrobić nam zdjęcie?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Aw, look at that cute puppy!</sentence_en>
+    <sentence_pl>Och, spójrz na tego uroczego szczeniaka!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is nearly midnight.</sentence_en>
+    <sentence_pl>Jest prawie północ.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sunset was a beautiful sight.</sentence_en>
+    <sentence_pl>Zachód słońca był pięknym widokiem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This is the greatest day of my life.</sentence_en>
+    <sentence_pl>To najwspanialszy dzień w moim życiu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The car drove over the long bridge.</sentence_en>
+    <sentence_pl>Samochód przejechał przez długi most.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I had a horrible nightmare.</sentence_en>
+    <sentence_pl>Miałem okropny koszmar.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The football coach cheered for his team.</sentence_en>
+    <sentence_pl>Trener piłki nożnej dopingował swoją drużynę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They serve breakfast until 11 AM.</sentence_en>
+    <sentence_pl>Śniadanie serwują do godziny 11:00.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The shopping center is in the town square.</sentence_en>
+    <sentence_pl>Centrum handlowe znajduje się na rynku miejskim.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>My older brother lives in London.</sentence_en>
+    <sentence_pl>Mój starszy brat mieszka w Londynie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I need to pack my suitcase tonight.</sentence_en>
+    <sentence_pl>Muszę dzisiaj wieczorem spakować walizkę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Stop talking nonsense and tell the truth.</sentence_en>
+    <sentence_pl>Przestań gadać bzdury i powiedz prawdę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We are working on a new school project.</sentence_en>
+    <sentence_pl>Pracujemy nad nowym projektem szkolnym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Regular training improves your performance.</sentence_en>
+    <sentence_pl>Regularny trening poprawia twoje wyniki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you give me an example?</sentence_en>
+    <sentence_pl>Czy możesz podać mi przykład?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The magician performed an amazing trick.</sentence_en>
+    <sentence_pl>Magik wykonał niesamowitą sztuczkę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We are prepared for any situation.</sentence_en>
+    <sentence_pl>Jesteśmy przygotowani na każdą sytuację.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She loves science, especially chemistry.</sentence_en>
+    <sentence_pl>Ona uwielbia naukę, szczególnie chemię.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She love to travel to foreign countries.</sentence_en>
+    <sentence_pl>Ona uwielbia podróżować do zagranicznych krajów.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The view from the top was incredible.</sentence_en>
+    <sentence_pl>Widok ze szczytu był niesamowity.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a man of strong character.</sentence_en>
+    <sentence_pl>To człowiek o silnym charakterze.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The police caught the dangerous criminal.</sentence_en>
+    <sentence_pl>Policja złapała niebezpiecznego przestępcę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I am truly sorry for what happened.</sentence_en>
+    <sentence_pl>Naprawdę mi przykro z powodu tego, co się stało.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Honestly, I don't know the answer.</sentence_en>
+    <sentence_pl>Szczerze mówiąc, nie znam odpowiedzi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Thanks for the help, bro.</sentence_en>
+    <sentence_pl>Dzięki za pomoc, brachu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Plants need water to survive.</sentence_en>
+    <sentence_pl>Rośliny potrzebują wody, aby przeżyć.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The company met its sales target.</sentence_en>
+    <sentence_pl>Firma osiągnęła swój cel sprzedażowy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't forget to feed the cat.</sentence_en>
+    <sentence_pl>Nie zapomnij nakarmić kota.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The nurse checked my blood pressure.</sentence_en>
+    <sentence_pl>Pielęgniarka zmierzyła mi ciśnienie krwi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Those flowers look real, but they are fake.</sentence_en>
+    <sentence_pl>Tamte kwiaty wyglądają jak prawdziwe, ale są sztuczne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you pass me the remote, sweetie?</sentence_en>
+    <sentence_pl>Czy możesz podać mi pilota, kochanie?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Add a little olive oil to the salad.</sentence_en>
+    <sentence_pl>Dodaj trochę oliwy z oliwek do sałatki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Committing suicide is never the answer.</sentence_en>
+    <sentence_pl>Popełnienie samobójstwa nigdy nie jest rozwiązaniem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>These keys belong to me.</sentence_en>
+    <sentence_pl>Te klucze należą do mnie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Whoo! That was an amazing ride!</sentence_en>
+    <sentence_pl>Jeej! To była niesamowita przejażdżka!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The dress fits her perfectly.</sentence_en>
+    <sentence_pl>Sukienka pasuje na nią idealnie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please remain seated until the plane stops.</sentence_en>
+    <sentence_pl>Proszę pozostać na miejscach, dopóki samolot się nie zatrzyma.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This is the original version of the painting.</sentence_en>
+    <sentence_pl>To jest oryginalna wersja obrazu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Where are we going, papa?</sentence_en>
+    <sentence_pl>Gdzie idziemy, tatusiu?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The cat jumped onto the table.</sentence_en>
+    <sentence_pl>Kot wskoczył na stół.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I am very concerned about your health.</sentence_en>
+    <sentence_pl>Bardzo martwię się o twoje zdrowie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You should give him credit for his hard work.</sentence_en>
+    <sentence_pl>Powinieneś docenić go za jego ciężką pracę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Ugh, this milk tastes sour.</sentence_en>
+    <sentence_pl>Fuj, to mleko ma kwaśny smak.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We need to discuss this issue tomorrow.</sentence_en>
+    <sentence_pl>Musimy omówić tę kwestię jutro.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Scientific research takes a lot of time.</sentence_en>
+    <sentence_pl>Badania naukowe zajmują dużo czasu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Technology makes our lives easier.</sentence_en>
+    <sentence_pl>Technologia ułatwia nam życie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The hotel room has a beautiful sea view.</sentence_en>
+    <sentence_pl>Pokój hotelowy ma piękny widok na morze.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Sit down on this comfortable chair.</sentence_en>
+    <sentence_pl>Usiądź na tym wygodnym krześle.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The workers decided to go on strike.</sentence_en>
+    <sentence_pl>Pracownicy postanowili ogłosić strajk.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please fill the glass with water.</sentence_en>
+    <sentence_pl>Proszę napełnić szklankę wodą.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The old car is still in good condition.</sentence_en>
+    <sentence_pl>Stary samochód wciąż jest w dobrym stanie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They climbed the highest mountain in Europe.</sentence_en>
+    <sentence_pl>Wspięli się na najwyższą górę w Europie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There was nowhere left to hide.</sentence_en>
+    <sentence_pl>Nie było już dokąd się schować.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sheriff arrested the thief.</sentence_en>
+    <sentence_pl>Szeryf aresztował złodzieja.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She has long brown hair.</sentence_en>
+    <sentence_pl>Ona ma długie brązowe włosy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I didn't recognize you at first.</sentence_en>
+    <sentence_pl>Na początku cię nie poznałem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The audience clapped after the performance.</sentence_en>
+    <sentence_pl>Publiczność biła brawo po występie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't be jealous of his success.</sentence_en>
+    <sentence_pl>Nie bądź zazdrosny o jego sukces.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She pretended to be asleep.</sentence_en>
+    <sentence_pl>Udawała, że śpi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We live in a modern digital society.</sentence_en>
+    <sentence_pl>Żyjemy w nowoczesnym społeczeństwie cyfrowym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is wearing a white shirt today.</sentence_en>
+    <sentence_pl>On ma dziś na sobie białą koszulę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This sofa is very comfortable.</sentence_en>
+    <sentence_pl>Ta sofa jest bardzo wygodna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>What is the meaning of this word?</sentence_en>
+    <sentence_pl>Jakie jest znaczenie tego słowa?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We have a special guest tonight.</sentence_en>
+    <sentence_pl>Mamy dziś wieczorem specjalnego gościa.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The clothes are already dry.</sentence_en>
+    <sentence_pl>Ubrania są już suche.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Aye, captain, I will do it.</sentence_en>
+    <sentence_pl>Tak jest, kapitanie, zrobię to.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The female lion does most of the hunting.</sentence_en>
+    <sentence_pl>Samica lwa wykonuje większość polowań.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They will release the new album next month.</sentence_en>
+    <sentence_pl>Wydadzą nowy album w przyszłym miesiącu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Ho ho ho, Merry Christmas!</sentence_en>
+    <sentence_pl>Ho ho ho, Wesołych Świąt!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Many people pray for world peace.</sentence_en>
+    <sentence_pl>Wielu ludzi modli się o pokój na świecie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Unfortunately, all the tickets are sold out.</sentence_en>
+    <sentence_pl>Niestety, wszystkie bilety są wyprzedane.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The universe is infinitely vast.</sentence_en>
+    <sentence_pl>Wszechświat jest nieskończenie rozległy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We need to prepare for the upcoming exam.</sentence_en>
+    <sentence_pl>Musimy przygotować się do nadchodzącego egzaminu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>In my opinion, this plan is perfect.</sentence_en>
+    <sentence_pl>Moim zdaniem ten plan jest doskonały.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't forget to wash your hands.</sentence_en>
+    <sentence_pl>Nie zapomnij umyć rąk.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This computer program is very easy to use.</sentence_en>
+    <sentence_pl>Ten program komputerowy jest bardzo łatwy w użyciu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I cannot stand the summer heat.</sentence_en>
+    <sentence_pl>Nie znoszę letniego upału.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I will have my usual breakfast today.</sentence_en>
+    <sentence_pl>Zjem dziś moje zwykłe śniadanie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I bought a train ticket to Warsaw.</sentence_en>
+    <sentence_pl>Kupiłem bilet kolejowy do Warszawy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I prefer tea over coffee.</sentence_en>
+    <sentence_pl>Wolę herbatę od kawy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Are you aware of the new rules?</sentence_en>
+    <sentence_pl>Czy jesteś świadomy nowych zasad?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Surely you don't believe that story.</sentence_en>
+    <sentence_pl>Z pewnością nie wierzysz w tę historię.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The male bird has colorful feathers.</sentence_en>
+    <sentence_pl>Samiec ptaka ma kolorowe pióra.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Military personnel returned to the base.</sentence_en>
+    <sentence_pl>Personel wojskowy powrócił do bazy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you help me lift this heavy box?</sentence_en>
+    <sentence_pl>Czy możesz pomóc mi podnieść to ciężkie pudło?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Scientists are conducting research in the lab.</sentence_en>
+    <sentence_pl>Naukowcy prowadzą badania w laboratorium.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The soldier obeyed the command immediately.</sentence_en>
+    <sentence_pl>Żołnierz natychmiast usłuchał rozkazu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do you have any proof of your identity?</sentence_en>
+    <sentence_pl>Czy masz jakiś dowód tożsamości?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Would you like some cream in your coffee?</sentence_en>
+    <sentence_pl>Czy chciałbyś trochę śmietanki do kawy?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The artist wants to create a new sculpture.</sentence_en>
+    <sentence_pl>Artysta chce stworzyć nową rzeźbę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He can’t afford to buy a new car.</sentence_en>
+    <sentence_pl>Nie stać go na zakup nowego samochodu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The total cost was fifty dollars.</sentence_en>
+    <sentence_pl>Całkowity koszt wyniósł pięćdziesiąt dolarów.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>That was a really dumb mistake.</sentence_en>
+    <sentence_pl>To był naprawdę głupi błąd.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She gave birth to a healthy baby boy.</sentence_en>
+    <sentence_pl>Urodziła zdrowego chłopca.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Human beings are social creatures.</sentence_en>
+    <sentence_pl>Istoty ludzkie są stworzeniami społecznymi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>That is a brilliant idea!</sentence_en>
+    <sentence_pl>To genialny pomysł!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He had to tie his shoes quickly.</sentence_en>
+    <sentence_pl>Musiał szybko zawiązać buty.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This house is ours.</sentence_en>
+    <sentence_pl>Ten dom jest nasz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The weather outside is quite ugly.</sentence_en>
+    <sentence_pl>Pogoda na zewnątrz jest dość brzydka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You need to focus on your studies.</sentence_en>
+    <sentence_pl>Musisz skupić się na swojej nauce.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Dan is my best friend from high school.</sentence_en>
+    <sentence_pl>Dan to mój najlepszy przyjaciel z liceum.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do you believe aliens exist?</sentence_en>
+    <sentence_pl>Czy wierzysz, że obcy istnieją?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She loves to draw portraits of people.</sentence_en>
+    <sentence_pl>Ona uwielbia rysować portrety ludzi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>What is the main purpose of this meeting?</sentence_en>
+    <sentence_pl>Jaki jest główny cel tego spotkania?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The bullet hit the metal target.</sentence_en>
+    <sentence_pl>Kula trafiła w metalowy cel.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I haven't seen her lately.</sentence_en>
+    <sentence_pl>Nie widziałem jej ostatnio.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Summer is my favorite season.</sentence_en>
+    <sentence_pl>Lato to moja ulubiona pora roku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>What do you suggest we do now?</sentence_en>
+    <sentence_pl>Co sugerujesz, żebyśmy teraz zrobili?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Children bring so much joy to our lives.</sentence_en>
+    <sentence_pl>Dzieci przynoszą tak wiele radości do naszego życia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The distance between the cities is short.</sentence_en>
+    <sentence_pl>Odległość między miastami jest niewielka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is your responsibility to finish this.</sentence_en>
+    <sentence_pl>To twój obowiązek, aby to ukończyć.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Call me whenever you need help.</sentence_en>
+    <sentence_pl>Zadzwoń do mnie, kiedykolwiek będziesz potrzebować pomocy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Money is not an issue for them.</sentence_en>
+    <sentence_pl>Pieniądze nie są dla nich problemem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Learning a language is a long process.</sentence_en>
+    <sentence_pl>Nauka języka to długi proces.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The knight drew his sharp sword.</sentence_en>
+    <sentence_pl>Rycerz dobył swojego ostrego miecza.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She always takes a cold shower in the morning.</sentence_en>
+    <sentence_pl>Ona zawsze bierze zimny prysznic rano.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He felt weak after the illness.</sentence_en>
+    <sentence_pl>Czuł się osłabiony po chorobie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She felt lonely living in the big city.</sentence_en>
+    <sentence_pl>Czuła się samotna, mieszkając w dużym mieście.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Health is the key to true happiness.</sentence_en>
+    <sentence_pl>Zdrowie jest kluczem do prawdziwego szczęścia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>A tiny insect crawled on the leaf.</sentence_en>
+    <sentence_pl>Mały owad pełzał po liściu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>My books are on the office desk.</sentence_en>
+    <sentence_pl>Moje książki są na biurku w biurze.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We went swimming in the pool.</sentence_en>
+    <sentence_pl>Poszliśmy popływać w basenie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This land is private property.</sentence_en>
+    <sentence_pl>Ta ziemia to własność prywatna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is trying to lose some weight.</sentence_en>
+    <sentence_pl>On próbuje zrzucić trochę wagi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The police caught the local gang.</sentence_en>
+    <sentence_pl>Policja złapała lokalny gang.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Be careful, that dog might bite.</sentence_en>
+    <sentence_pl>Uważaj, ten pies może ugryźć.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I have a job interview tomorrow morning.</sentence_en>
+    <sentence_pl>Jutro rano mam rozmowę o pracę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We visited an ancient Roman temple.</sentence_en>
+    <sentence_pl>Odwiedziliśmy starożytną rzymską świątynię.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a very handsome young man.</sentence_en>
+    <sentence_pl>To bardzo przystojny młody człowiek.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The hotel staff was very helpful.</sentence_en>
+    <sentence_pl>Personel hotelu był bardzo pomocny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The dollar is the standard currency unit.</sentence_en>
+    <sentence_pl>Dolar to standardowa jednostka walutowa.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I am a big fan of rock music.</sentence_en>
+    <sentence_pl>Jestem wielkim fanem muzyki rockowej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a true gentleman.</sentence_en>
+    <sentence_pl>On jest prawdziwym dżentelmenem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Let me introduce you to my sister.</sentence_en>
+    <sentence_pl>Pozwól, że przedstawię ci moją siostrę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It was fate that brought us together.</sentence_en>
+    <sentence_pl>To przeznaczenie nas połączyło.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Let's split the bill evenly.</sentence_en>
+    <sentence_pl>Podzielmy rachunek po równo.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She moved to this city only recently.</sentence_en>
+    <sentence_pl>Przeprowadziła się do tego miasta całkiem niedawno.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please add some sugar to my coffee.</sentence_en>
+    <sentence_pl>Proszę dodaj trochę cukru do mojej kawy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Walk slowly, the floor is slippery.</sentence_en>
+    <sentence_pl>Idź powoli, podłoga jest śliska.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The fire alarm went off suddenly.</sentence_en>
+    <sentence_pl>Alarm przeciwpożarowy włączył się nagle.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She is a member of the local club.</sentence_en>
+    <sentence_pl>Ona jest członkiem lokalnego klubu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please knock before you enter the room.</sentence_en>
+    <sentence_pl>Proszę zapukaj, zanim wejdziesz do pokoju.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They grow beautiful flowers in their garden.</sentence_en>
+    <sentence_pl>Oni hodują piękne kwiaty w swoim ogrodzie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The brave firefighter saved the child.</sentence_en>
+    <sentence_pl>Dzielny strażak uratował dziecko.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The pink pig was covered in mud.</sentence_en>
+    <sentence_pl>Różowa świnia była pokryta błotem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She works as a professional fashion model.</sentence_en>
+    <sentence_pl>Ona pracuje jako profesjonalna modelka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He cut his finger while cooking.</sentence_en>
+    <sentence_pl>Skaleczył się w palec podczas gotowania.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Take this medicine twice a day.</sentence_en>
+    <sentence_pl>Przyjmuj ten lek dwa razy dziennie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Only authorized users have access to this data.</sentence_en>
+    <sentence_pl>Tylko upoważnieni użytkownicy mają dostęp do tych danych.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They rented a small flat in the center.</sentence_en>
+    <sentence_pl>Wynajęli małe mieszkanie w centrum.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He passed the test very easily.</sentence_en>
+    <sentence_pl>Zdał test bardzo łatwo.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Tighten the screw with a screwdriver.</sentence_en>
+    <sentence_pl>Dokręć śrubę śrubokrętem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Driving so fast is completely insane.</sentence_en>
+    <sentence_pl>Taka szybka jazda jest całkowicie szalona.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The weather is beautiful today.</sentence_en>
+    <sentence_pl>Pogoda jest dzisiaj piękna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Follow the narrow path through the forest.</sentence_en>
+    <sentence_pl>Idź wąską ścieżką przez las.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The pillow is very soft and comfortable.</sentence_en>
+    <sentence_pl>Poduszka jest bardzo miękka i wygodna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I didn't mean to cause any harm.</sentence_en>
+    <sentence_pl>Nie miałem zamiaru wyrządzić żadnej szkody.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I really like her classic clothing style.</sentence_en>
+    <sentence_pl>Naprawdę podoba mi się jej klasyczny styl ubierania się.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We live in a peaceful community.</sentence_en>
+    <sentence_pl>Żyjemy w spokojnej społeczności.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The two plans are basically the same.</sentence_en>
+    <sentence_pl>Dwa plany są zasadniczo takie same.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Al is short for Albert or Alan.</sentence_en>
+    <sentence_pl>Al to skrót od Albert lub Alan.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The traffic signal turned green.</sentence_en>
+    <sentence_pl>Sygnalizacja świetlna zmieniła się na zielone.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Are you ready? Nope, not yet.</sentence_en>
+    <sentence_pl>Jesteś gotowy? Nie, jeszcze nie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do you have a spare key?</sentence_en>
+    <sentence_pl>Czy masz zapasowy klucz?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>His speech inspired many people.</sentence_en>
+    <sentence_pl>Jego przemówienie zainspirowało wielu ludzi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The tooth is loose and might fall out.</sentence_en>
+    <sentence_pl>Ząb jest luźny i może wypaść.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The ground was covered with white snow.</sentence_en>
+    <sentence_pl>Ziemia była pokryta białym śniegiem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We rented a boat and went on the lake.</sentence_en>
+    <sentence_pl>Wynajęliśmy łódkę i popłynęliśmy na jezioro.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sun is very bright today.</sentence_en>
+    <sentence_pl>Słońce jest dzisiaj bardzo jasne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Water is leaking through the roof.</sentence_en>
+    <sentence_pl>Woda przecieka przez dach.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Ohh, now I understand what you mean.</sentence_en>
+    <sentence_pl>Ooo, teraz rozumiem, co masz na myśli.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The artist used blue paint for the sky.</sentence_en>
+    <sentence_pl>Artysta użył niebieskiej farby do nieba.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please remind me to buy milk later.</sentence_en>
+    <sentence_pl>Proszę przypomnij mi, żebym później kupił mleko.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He has been my pal since childhood.</sentence_en>
+    <sentence_pl>Jest moim kumplem od dzieciństwa.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The truth was laid naked before us.</sentence_en>
+    <sentence_pl>Prawda została przed nami odsłonięta.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I need to go to the post office.</sentence_en>
+    <sentence_pl>Muszę iść na pocztę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I prefer coffee without sugar.</sentence_en>
+    <sentence_pl>Wolę kawę bez cukru.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The storm caused severe damage to the house.</sentence_en>
+    <sentence_pl>Burza spowodowała poważne uszkodzenia domu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There was absolute silence in the library.</sentence_en>
+    <sentence_pl>W bibliotece panowała absolutna cisza.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Hard work is the key to success.</sentence_en>
+    <sentence_pl>Ciężka praca to klucz do sukcesu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't sit on the wet grass.</sentence_en>
+    <sentence_pl>Nie siadaj na mokrej trawie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do you want to go out? Nah, I'm tired.</sentence_en>
+    <sentence_pl>Chcesz wyjść? Nie, jestem zmęczony.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>A large amount of money was spent.</sentence_en>
+    <sentence_pl>Wydano dużą ilość pieniędzy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>How did you manage to finish it so fast?</sentence_en>
+    <sentence_pl>Jak udało ci się ukończyć to tak szybko?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Your safety is our main priority.</sentence_en>
+    <sentence_pl>Twoje bezpieczeństwo jest naszym głównym priorytetem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You need to study harder to pass.</sentence_en>
+    <sentence_pl>Musisz uczyć się pilniej, aby zdać.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Walk down this block and turn left.</sentence_en>
+    <sentence_pl>Idź w dół tej ulicy i skręć w lewo.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We went to a fancy restaurant for dinner.</sentence_en>
+    <sentence_pl>Poszliśmy do eleganckiej restauracji na kolację.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The head chef prepared an amazing dish.</sentence_en>
+    <sentence_pl>Szef kuchni przygotował niesamowite danie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please read the contract before signing it.</sentence_en>
+    <sentence_pl>Proszę przeczytaj umowę przed jej podpisaniem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They need to dig a deep hole here.</sentence_en>
+    <sentence_pl>Muszą tutaj wykopać głęboki dół.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He felt a sudden pain in his chest.</sentence_en>
+    <sentence_pl>Poczuł nagły ból w klatce piersiowej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>International trade benefits many countries.</sentence_en>
+    <sentence_pl>Handel międzynarodowy przynosi korzyści wielu krajom.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It was a long and exhausting journey.</sentence_en>
+    <sentence_pl>To była długa i wyczerpująca podróż.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Eating too much chocolate hurts his stomach.</sentence_en>
+    <sentence_pl>Jedzenie zbyt dużej ilości czekolady szkodzi jego żołądkowi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They decided to get a divorce last year.</sentence_en>
+    <sentence_pl>Postanowili wziąć rozwód w zeszłym roku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Many friends attended the funeral service.</sentence_en>
+    <sentence_pl>Wielu przyjaciół wzięło udział w ceremonii pogrzebowej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Virtual reality is becoming very popular.</sentence_en>
+    <sentence_pl>Wirtualna rzeczywistość staje się bardzo popularna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>His scientific theory was proven correct.</sentence_en>
+    <sentence_pl>Jego teoria naukowa okazała się poprawna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Oh gosh, I completely forgot about the meeting!</sentence_en>
+    <sentence_pl>O rany, całkowicie zapomniałem o spotkaniu!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please close the front gate when you leave.</sentence_en>
+    <sentence_pl>Proszę zamknij przednią bramę, kiedy będziesz wychodzić.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The virus can spread very quickly.</sentence_en>
+    <sentence_pl>Wirus może rozprzestrzeniać się bardzo szybko.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Get outta here right now!</sentence_en>
+    <sentence_pl>Wynoś się stąd natychmiast!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There was a sudden change in the weather.</sentence_en>
+    <sentence_pl>Nastąpiła nagła zmiana pogody.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Put on your warm coat; it's freezing.</sentence_en>
+    <sentence_pl>Włóż swój ciepły płaszcz; jest mróz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sooner we finish, the better.</sentence_en>
+    <sentence_pl>Im szybciej skończymy, tym lepiej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I love pizza with extra cheese.</sentence_en>
+    <sentence_pl>Uwielbiam pizzę z dodatkowym serem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Beautiful flowers bloom in the spring.</sentence_en>
+    <sentence_pl>Piękne kwiaty kwitną wiosną.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Turn to page forty-two of the book.</sentence_en>
+    <sentence_pl>Przejdź do czterdziestej drugiej strony książki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The treasure was hidden in a secret cave.</sentence_en>
+    <sentence_pl>Skarb był ukryty w tajemniczej jaskini.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The severe storm destroyed many trees.</sentence_en>
+    <sentence_pl>Gwałtowna burza zniszczyła wiele drzew.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I stayed home cos it was raining.</sentence_en>
+    <sentence_pl>Zostałem w domu, bo padało.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Personally, I think this is a great idea.</sentence_en>
+    <sentence_pl>Osobiście uważam, że to świetny pomysł.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The artist painted a beautiful landscape.</sentence_en>
+    <sentence_pl>Artysta namalował piękny krajobraz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They built their house on top of a hill.</sentence_en>
+    <sentence_pl>Zbudowali swój dom na szczycie wzgórza.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You need permission to park here.</sentence_en>
+    <sentence_pl>Potrzebujesz pozwolenia, aby tu zaparkować.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Gold is an expensive metal.</sentence_en>
+    <sentence_pl>Złoto to drogi metal.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We went for a long walk in the forest.</sentence_en>
+    <sentence_pl>Poszliśmy na długi spacer do lasu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He could barely open his eyes this morning.</sentence_en>
+    <sentence_pl>Ledwo mógł otworzyć oczy dziś rano.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I do not regret my final decision.</sentence_en>
+    <sentence_pl>Nie żałuję mojej ostatecznej decyzji.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Today's math lesson was very hard.</sentence_en>
+    <sentence_pl>Dzisiejsza lekcja matematyki była bardzo trudna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a great lover of classical music.</sentence_en>
+    <sentence_pl>Jest wielkim miłośnikiem muzyki klasycznej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I bought a fresh loaf of bread.</sentence_en>
+    <sentence_pl>Kupiłem świeży bochenek chleba.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>History is her favorite subject at school.</sentence_en>
+    <sentence_pl>Historia to jej ulubiony przedmiot w szkole.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You should seek professional legal advice.</sentence_en>
+    <sentence_pl>Powinieneś zasięgnąć profesjonalnej porady prawnej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She stayed home because she felt ill.</sentence_en>
+    <sentence_pl>Została w domu, ponieważ czuła się chora.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is always in a good mood.</sentence_en>
+    <sentence_pl>On zawsze jest w dobrym humorze.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Who is the owner of this car?</sentence_en>
+    <sentence_pl>Kto jest właścicielem tego samochodu?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We are sorry for your heavy loss.</sentence_en>
+    <sentence_pl>Przykro nam z powodu twojej wielkiej straty.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The secretary organized all the files.</sentence_en>
+    <sentence_pl>Sekretarka uporządkowała wszystkie akta.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Revenge will not solve your problems.</sentence_en>
+    <sentence_pl>Zemsta nie rozwiąże twoich problemów.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is likely to rain this afternoon.</sentence_en>
+    <sentence_pl>Prawdopodobnie będzie padać dziś po południu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We pay rent on the first of every month.</sentence_en>
+    <sentence_pl>Płacimy czynsz pierwszego dnia każdego miesiąca.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Internet connection is very slow today.</sentence_en>
+    <sentence_pl>Połączenie internetowe jest dzisiaj bardzo wolne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The laboratory assistant helped the scientist.</sentence_en>
+    <sentence_pl>Asystent laboratoryjny pomógł naukowcowi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There is no need to rush; take your time.</sentence_en>
+    <sentence_pl>Nie ma potrzeby się spieszyć; nie spiesz się.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She speaks two foreign languages fluently.</sentence_en>
+    <sentence_pl>Ona płynnie mówi w dwóch językach obcych.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sea was very rough during the storm.</sentence_en>
+    <sentence_pl>Morze było bardzo wzburzone podczas burzy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We live in the twenty-first century.</sentence_en>
+    <sentence_pl>Żyjemy w dwudziestym pierwszym wieku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I bought a new pair of shoes.</sentence_en>
+    <sentence_pl>Kupiłem nową parę butów.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He put his phone in his front pocket.</sentence_en>
+    <sentence_pl>Schował swój telefon do przedniej kieszeni.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>My grandparents live on a dairy farm.</sentence_en>
+    <sentence_pl>Moi dziadkowie mieszkają na gospodarstwie mlecznym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He rides his bike to work every day.</sentence_en>
+    <sentence_pl>Codziennie jeździ rowerem do pracy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The answer to this question is obvious.</sentence_en>
+    <sentence_pl>Odpowiedź na to pytanie jest oczywista.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She gave a highly professional presentation.</sentence_en>
+    <sentence_pl>Przedstawiła wysoce profesjonalną prezentację.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Thank goodness you are safe!</sentence_en>
+    <sentence_pl>Dzięki Bogu, że jesteś bezpieczny!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Let's meet in the main town square.</sentence_en>
+    <sentence_pl>Spotkajmy się na głównym rynku miejskim.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Albert Einstein was an absolute genius.</sentence_en>
+    <sentence_pl>Albert Einstein był absolutnym geniuszem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't let this argument ruin our friendship.</sentence_en>
+    <sentence_pl>Nie pozwól, aby ta kłótnia zniszczyła naszą przyjaźń.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It snows a lot here during winter.</sentence_en>
+    <sentence_pl>Zimą mocno tutaj pada śnieg.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He accidentally bit his tongue while eating.</sentence_en>
+    <sentence_pl>Przypadkowo ugryzł się w język podczas jedzenia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I agree with you completely.</sentence_en>
+    <sentence_pl>Zgadzam się z tobą całkowicie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Doctors are searching for a cure for cancer.</sentence_en>
+    <sentence_pl>Lekarze szukają lekarstwa na raka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The clock on the wall shows 3 PM.</sentence_en>
+    <sentence_pl>Zegar na ścianie wskazuje godzinę piętnastą.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The Atlantic Ocean is vast and deep.</sentence_en>
+    <sentence_pl>Ocean Atlantycki jest rozległy i głęboki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't trust him; he is a known liar.</sentence_en>
+    <sentence_pl>Nie ufaj mu; to znany kłamca.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We took a guided tour of the museum.</sentence_en>
+    <sentence_pl>Wzięliśmy udział w wycieczce z przewodnikiem po muzeum.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She won first place in the art competition.</sentence_en>
+    <sentence_pl>Zdobyła pierwsze miejsce w konkursie artystycznym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The lecture was so boring that I fell asleep.</sentence_en>
+    <sentence_pl>Wykład był tak nudny, że zasnąłem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Water the green plant every day.</sentence_en>
+    <sentence_pl>Podlewaj zieloną roślinę codziennie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>God bless you for your kindness.</sentence_en>
+    <sentence_pl>Niech Bóg cię błogosławi za twoją dobroć.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The police officer gave him a warning.</sentence_en>
+    <sentence_pl>Policjant udzielił mu ostrzeżenia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Re: your email from yesterday, here is the answer.</sentence_en>
+    <sentence_pl>Odnośnie twojego wczorajszego e-maila, oto odpowiedź.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The computer program caused a system crash.</sentence_en>
+    <sentence_pl>Program komputerowy spowodował awarię systemu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Her bedroom has a very large window.</sentence_en>
+    <sentence_pl>Jej sypialnia ma bardzo duże okno.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please lower the volume of the radio.</sentence_en>
+    <sentence_pl>Proszę przycisz radio.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She wore a beautiful silver necklace.</sentence_en>
+    <sentence_pl>Nosiła piękny srebrny naszyjnik.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The military defense system is strong.</sentence_en>
+    <sentence_pl>Wojskowy system obronny jest silny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Where is the public toilet located?</sentence_en>
+    <sentence_pl>Gdzie znajduje się publiczna toaleta?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sporting event attracted many fans.</sentence_en>
+    <sentence_pl>Wydarzenie sportowe przyciągnęło wielu fanów.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The table is in the shape of an oval.</sentence_en>
+    <sentence_pl>Stół jest w kształcie owalu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The village priest gave a nice sermon.</sentence_en>
+    <sentence_pl>Wiejski ksiądz wygłosił ładne kazanie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This watch is cheap but very reliable.</sentence_en>
+    <sentence_pl>Ten zegarek jest tani, ale bardzo niezawodny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They went out for a romantic dinner.</sentence_en>
+    <sentence_pl>Wybrali się na romantyczną kolację.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The kitchen is located downstairs.</sentence_en>
+    <sentence_pl>Kuchnia znajduje się na dole.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I want to invite you to my birthday party.</sentence_en>
+    <sentence_pl>Chcę cię zaprosić na moje przyjęcie urodzinowe.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Winning the lottery brought him a large fortune.</sentence_en>
+    <sentence_pl>Wygrana na loterii przyniosła mu dużą fortunę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Try to avoid heavy traffic on the highway.</sentence_en>
+    <sentence_pl>Staraj się unikać dużego ruchu na autostradzie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The prices are higher than last year.</sentence_en>
+    <sentence_pl>Ceny są wyższe niż w zeszłym roku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Your face looks very familiar to me.</sentence_en>
+    <sentence_pl>Twoja twarz wygląda mi bardzo znajomo.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please answer the ringing telephone.</sentence_en>
+    <sentence_pl>Proszę odbierz dzwoniący telefon.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They built a giant skyscraper in the city.</sentence_en>
+    <sentence_pl>Zbudowali gigantyczny wieżowiec w mieście.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It is important to have health insurance.</sentence_en>
+    <sentence_pl>To ważne, aby mieć ubezpieczenie zdrowotne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't scare me like that!</sentence_en>
+    <sentence_pl>Nie strasz mnie tak!</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Dinosaur fossils are from a different period.</sentence_en>
+    <sentence_pl>Skamieniałości dinozaurów pochodzą z innego okresu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is interested in local political issues.</sentence_en>
+    <sentence_pl>On interesuje się lokalnymi kwestiami politycznymi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is the best basketball player on the team.</sentence_en>
+    <sentence_pl>On jest najlepszym koszykarzem w drużynie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you please repeat what you just said?</sentence_en>
+    <sentence_pl>Czy możesz proszę powtórzyć to, co właśnie powiedziałeś?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The president issued an official statement.</sentence_en>
+    <sentence_pl>Prezydent wydał oficjalne oświadczenie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>These rules absolutely suck.</sentence_en>
+    <sentence_pl>Te zasady są absolutnie do bani.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This strawberry cake is delicious.</sentence_en>
+    <sentence_pl>To ciasto truskawkowe jest pyszne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Is there a particular style you like?</sentence_en>
+    <sentence_pl>Czy jest jakiś konkretny styl, który lubisz?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Always use the proper tools for the job.</sentence_en>
+    <sentence_pl>Zawsze używaj odpowiednich narzędzi do pracy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She loves to take a warm bath after work.</sentence_en>
+    <sentence_pl>Ona uwielbia brać ciepłą kąpiel po pracy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This is the construction site for the new school.</sentence_en>
+    <sentence_pl>To jest plac budowy nowej szkoły.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Books are an important source of knowledge.</sentence_en>
+    <sentence_pl>Książki są ważnym źródłem wiedzy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The path led us straight to the river.</sentence_en>
+    <sentence_pl>Ścieżka doprowadziła nas prosto do rzeki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We used a physical map to find our way.</sentence_en>
+    <sentence_pl>Użyliśmy mapy fizycznej, aby znaleźć drogę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The angry driver honked his car horn.</sentence_en>
+    <sentence_pl>Wściekły kierowca zatrąbił klaksonem samochodowym.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>If you practice, you will eventually succeed.</sentence_en>
+    <sentence_pl>Jeśli będziesz ćwiczyć, w końcu odniesiesz sukces.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It's a pity that you cannot come with us.</sentence_en>
+    <sentence_pl>Szkoda, że nie możesz iść z nami.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>You should be ashamed of your bad behavior.</sentence_en>
+    <sentence_pl>Powinieneś się wstydzić swojego złego zachowania.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Do not assume that everything is correct.</sentence_en>
+    <sentence_pl>Nie zakładaj, że wszystko jest poprawne.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sun will rise at six tomorrow morning.</sentence_en>
+    <sentence_pl>Słońce wzejdzie jutro rano o szóstej.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Your request for leave was officially approved.</sentence_en>
+    <sentence_pl>Twój wniosek o urlop został oficjalnie zatwierdzony.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The speed limit is fifty miles per hour.</sentence_en>
+    <sentence_pl>Ograniczenie prędkości wynosi pięćdziesiąt mil na godzinę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The jury found the defendant guilty.</sentence_en>
+    <sentence_pl>Ława przysięgłych uznała oskarżonego za winnego.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Try to maintain a positive attitude.</sentence_en>
+    <sentence_pl>Staraj się utrzymać pozytywne nastawienie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She hired a defense attorney for the trial.</sentence_en>
+    <sentence_pl>Wynajęła obrońcę na proces.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We drove in the wrong direction for hours.</sentence_en>
+    <sentence_pl>Jechaliśmy w złym kierunku przez wiele godzin.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The exact location of the restaurant is secret.</sentence_en>
+    <sentence_pl>Dokładna lokalizacja restauracji jest tajemnicą.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This broken old umbrella is completely useless.</sentence_en>
+    <sentence_pl>Ten zepsuty stary parasol jest całkowicie bezużyteczny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The university gave him a research grant.</sentence_en>
+    <sentence_pl>Uniwersytet przyznał mu grant badawczy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Thank you for preparing this wonderful meal.</sentence_en>
+    <sentence_pl>Dziękuję za przygotowanie tego wspaniałego posiłku.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They deliver fresh mail every morning.</sentence_en>
+    <sentence_pl>Dostarczają świeżą pocztę każdego ranka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The ancient temple was built of stone.</sentence_en>
+    <sentence_pl>Starożytna świątynia była zbudowana z kamienia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>That horror movie was very scary.</sentence_en>
+    <sentence_pl>Tamten horror był bardzo straszny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Regular exercise helps maintain good health.</sentence_en>
+    <sentence_pl>Regularne ćwiczenia pomagają utrzymać dobre zdrowie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This is the official website of the city.</sentence_en>
+    <sentence_pl>To jest oficjalna strona internetowa miasta.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Bring a warm jacket; it's cold outside.</sentence_en>
+    <sentence_pl>Weź ciepłą kurtkę; na zewnątrz jest zimno.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Please flip the light switch by the door.</sentence_en>
+    <sentence_pl>Proszę przełącz włącznik światła przy drzwiach.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They visited their grandfather's grave.</sentence_en>
+    <sentence_pl>Odwiedzili grób swojego dziadka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The dog likes to chase neighborhood cats.</sentence_en>
+    <sentence_pl>Pies lubi gonić osiedlowe koty.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He played an important role in the project.</sentence_en>
+    <sentence_pl>Odegrał ważną rolę w projekcie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He has a very odd sense of humor.</sentence_en>
+    <sentence_pl>On ma bardzo dziwne poczucie humoru.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>She wore a very elegant and sexy dress.</sentence_en>
+    <sentence_pl>Miała na sobie bardzo elegancką i seksowną sukienkę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Our team played very badly last night.</sentence_en>
+    <sentence_pl>Nasz zespół zagrał bardzo źle wczoraj wieczorem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There are many tall trees in this park.</sentence_en>
+    <sentence_pl>W tym parku jest wiele wysokich drzew.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The political affair became a major scandal.</sentence_en>
+    <sentence_pl>Ta afera polityczna stała się wielkim skandalem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>They bought a new television for the living room.</sentence_en>
+    <sentence_pl>Kupili nowy telewizor do salonu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The bad news came as a complete shock.</sentence_en>
+    <sentence_pl>Złe wieści były całkowitym szokiem.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Let's order a large pepperoni pizza.</sentence_en>
+    <sentence_pl>Zamówmy dużą pizzę z pepperoni.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Save the high-resolution image to your desktop.</sentence_en>
+    <sentence_pl>Zapisz obraz o wysokiej rozdzielczości na pulpicie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The autumn leaves turned a beautiful golden color.</sentence_en>
+    <sentence_pl>Jesienne liście przybrały piękny złoty kolor.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Humans reproduce through sexual reproduction.</sentence_en>
+    <sentence_pl>Ludzie rozmnażają się poprzez rozmnażanie płciowe.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Many people suffer from seasonal allergies.</sentence_en>
+    <sentence_pl>Wiele osób cierpi na alergie sezonowe.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I will follow you wherever you go.</sentence_en>
+    <sentence_pl>Pójdę za tobą, dokądkolwiek pójdziesz.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Put the fresh fruit on the ceramic plate.</sentence_en>
+    <sentence_pl>Połóż świeże owoce na ceramicznym talerzu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Dark clouds began to appear in the sky.</sentence_en>
+    <sentence_pl>Ciemne chmury zaczęły pojawiać się na niebie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Dark chocolate is good for your health.</sentence_en>
+    <sentence_pl>Ciemna czekolada jest dobra dla zdrowia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>That was a very clever solution to the problem.</sentence_en>
+    <sentence_pl>To było bardzo sprytne rozwiązanie problemu.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Hm, let me think about that option.</sentence_en>
+    <sentence_pl>Hm, pozwól mi pomyśleć o tej opcji.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The cruel king showed no mercy to enemies.</sentence_en>
+    <sentence_pl>Okrutny król nie okazał litości wrogom.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The clever fox avoided the hidden trap.</sentence_en>
+    <sentence_pl>Sprytny lis uniknął ukrytej pułapki.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>I heard a loud bang from the kitchen.</sentence_en>
+    <sentence_pl>Usłyszałem głośny huk z kuchni.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This plant produces a deadly poison.</sentence_en>
+    <sentence_pl>Ta roślina wytwarza śmiertelną truciznę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He sat down on his butt on the grass.</sentence_en>
+    <sentence_pl>Usiadł na tyłku na trawie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Sunflowers are a bright yellow color.</sentence_en>
+    <sentence_pl>Słoneczniki mają jasny żółty kolor.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>My grandmother makes the best chicken soup.</sentence_en>
+    <sentence_pl>Moja babcia robi najlepszy rosół.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The missing keys are a complete mystery.</sentence_en>
+    <sentence_pl>Zaginione klucze to całkowita zagadka.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The doctor cleaned and bandaged the wound.</sentence_en>
+    <sentence_pl>Lekarz oczyścił i opatrzył ranę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There is heavy traffic during rush hour.</sentence_en>
+    <sentence_pl>W godzinach szczytu jest duży ruch uliczny.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>It takes courage to speak the truth.</sentence_en>
+    <sentence_pl>Mówienie prawdy wymaga odwagi.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Wolves usually hunt in organized packs.</sentence_en>
+    <sentence_pl>Wilki zazwyczaj polują w zorganizowanych stadach.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>A giant rat ran across the alley.</sentence_en>
+    <sentence_pl>Gigantyczny szczur przebiegł przez alejkę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Regular washing helps prevent the disease.</sentence_en>
+    <sentence_pl>Regularne mycie pomaga zapobiegać chorobie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The winner of the race received a gold medal.</sentence_en>
+    <sentence_pl>Zwycięzca wyścigu otrzymał złoty medal.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The local town council voted on the issue.</sentence_en>
+    <sentence_pl>Lokalna rada miasta głosowała w tej sprawie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He has a dental appointment on Tuesday.</sentence_en>
+    <sentence_pl>We wtorek ma wizytę u dentysty.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>There is a small crack in the window.</sentence_en>
+    <sentence_pl>W oknie jest małe pęknięcie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Climate change is a serious global threat.</sentence_en>
+    <sentence_pl>Zmiana klimatu to poważne globalne zagrożenie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Regular physical exercise is vital for health.</sentence_en>
+    <sentence_pl>Regularny wysiłek fizyczny jest kluczowy dla zdrowia.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The entire nation celebrated the great victory.</sentence_en>
+    <sentence_pl>Cały naród świętował wielkie zwycięstwo.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The sun is our primary source of energy.</sentence_en>
+    <sentence_pl>Słońce jest naszym głównym źródłem energii.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Fresh vegetables are part of a healthy diet.</sentence_en>
+    <sentence_pl>Świeże warzywa są częścią zdrowej diety.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The football team celebrated their historic victory.</sentence_en>
+    <sentence_pl>Drużyna piłkarska świętowała swoje historyczne zwycięstwo.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The temperature dropped below freezing tonight.</sentence_en>
+    <sentence_pl>Temperatura spadła dziś w nocy poniżej zera.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Knowing English gives you a huge advantage.</sentence_en>
+    <sentence_pl>Znajomość angielskiego daje ci ogromną przewagę.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>This ring is made of pure silver.</sentence_en>
+    <sentence_pl>Ten pierścionek jest zrobiony z czystego srebra.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Put your books aside and listen carefully.</sentence_en>
+    <sentence_pl>Odłóż książki na bok i słuchaj uważnie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Don't be a jerk to your classmates.</sentence_en>
+    <sentence_pl>Nie bądź palantem dla swoich kolegów z klasy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Did we receive any mail this morning?</sentence_en>
+    <sentence_pl>Czy dostaliśmy dzisiaj rano jakąś pocztę?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The birds start singing at dawn.</sentence_en>
+    <sentence_pl>Ptaki zaczynają śpiewać o świcie.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The new law had a positive effect.</sentence_en>
+    <sentence_pl>Nowe prawo przyniosło pozytywny skutek.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>Can you spell your last name, please?</sentence_en>
+    <sentence_pl>Czy możesz proszę przeliterować swoje nazwisko?</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>He is a total control freak at work.</sentence_en>
+    <sentence_pl>On jest całkowitym maniakiem kontroli w pracy.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>The kitchen table is made of solid wood.</sentence_en>
+    <sentence_pl>Stół kuchenny jest zrobiony z litego drewna.</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>We always go skiing in January because the snow conditions are perfect. </sentence_en>
+    <sentence_pl>Zawsze jeździmy na narty w styczniu, ponieważ warunki śniegowe są idealne. </sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+</sentence>
