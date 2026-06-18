@@ -5,12 +5,15 @@
 
 ## Opis
 
-Smart English uczy 5000 najczęściej używanych angielskich słów poprzez zdania. W zdaniach jest łącznie 7511 unikalnych angielskich słów (poziom C1). Dzięki systemowi powtórek możesz znacznie szybciej nauczyć się 
-tłumaczyć zdania, ponieważ nie musisz powtarzać zdań, które już umiesz przetłumaczyć. Nauka jest podzielona na poziomy zaawansowania (od A1 do C1).
-Program umożliwia naukę w trybie automatycznym, półautomatycznym i ręcznym. W trybie automatycznym 
-zdania są pokazywane automatycznie i użytkownik nic nie musi robić. W trybie półautomatycznym tłumaczenie pojawia się po zadanym czasie, a następnie użytkownik odpowiada czy znał tłumaczenie.
-W trybie ręcznym to użytkownik pokazuje tłumaczenie, a następnie odpowiada czy je znał. Zdania, które prezentuje program mogą być czytane na głos. Program umożliwia utworzenie osobnego profilu dla każdego 
-z użytkowników.
+Smart English to program do nauki języka angielskiego oparty na zdaniach. Uczy 5000 najczęściej używanych angielskich słów, dzięki czemu użytkownik poznaje słownictwo w naturalnym kontekście. Baza zdań zawiera łącznie 7511 unikalnych słów, co odpowiada poziomowi C1.
+Program wykorzystuje inteligentny system powtórek, który pozwala skupić się na materiale wymagającym utrwalenia. Zdania, które zostały już opanowane nie są już wyświetlane, dzięki czemu nauka jest szybsza i bardziej efektywna.
+Materiał został podzielony na poziomy zaawansowania od A1 do C1, co umożliwia stopniowe rozwijanie znajomości języka.
+Smart English oferuje trzy tryby nauki:
+• Automatyczny – zdania i tłumaczenia są prezentowane automatycznie, bez konieczności wykonywania dodatkowych czynności.
+• Półautomatyczny – tłumaczenie pojawia się po określonym czasie, a użytkownik ocenia, czy znał poprawną odpowiedź.
+• Ręczny – użytkownik sam decyduje, kiedy wyświetlić tłumaczenie, a następnie zaznacza, czy znał dane zdanie.
+Dodatkowo program może odczytywać zdania na głos, pomagając rozwijać umiejętność rozumienia ze słuchu i poprawną wymowę.
+Program obsługuje wiele profili użytkowników, dzięki czemu każda osoba może uczyć się we własnym tempie i zachować własne postępy.
 
 ## Zrzuty ekranu
 
