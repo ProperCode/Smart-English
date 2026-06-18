@@ -19,7 +19,7 @@
             </FlowDocument>
         </RichTextBox>
         <Button x:Name="Bnie_wiedzialem" Content="Nie wiedziałem" Foreground="White" BorderBrush="Black" Cursor="Hand"
-FontSize="18" Click="Bnie_wiedzialem_Click" Margin="3,270,350,100" MouseEnter="Bnie_wiedzialem_MouseEnter" MouseLeave="Bnie_wiedzialem_MouseLeave">
+FontSize="18" Click="Bnie_wiedzialem_Click" Margin="0,270,350,100" MouseEnter="Bnie_wiedzialem_MouseEnter" MouseLeave="Bnie_wiedzialem_MouseLeave">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" 
      StartPoint="0.5,0">
@@ -39,7 +39,7 @@ FontSize="18" Click="Bwiedzialem_Click" Margin="353,270,0,100" MouseEnter="Bwied
             </Button.Background>
         </Button>
         <Button x:Name="Bzakoncz_nauke" Content="Zakończ naukę" Foreground="Black" BorderBrush="Black" Cursor="Hand"
-FontSize="18" Click="Bzakoncz_nauke_Click" Margin="3,355,0,15">
+FontSize="18" Click="Bzakoncz_nauke_Click" Margin="0,355,0,15">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" 
      StartPoint="0.5,0">
