@@ -12,8 +12,8 @@ Zdania, które zostały już opanowane nie są już wyświetlane, dzięki czemu 
 Nauka jest podzielona na poziomy zaawansowania od A1 do C1, co umożliwia stopniowe rozwijanie znajomości języka.</br></br>
 Smart English oferuje trzy tryby nauki:</br>
 • Automatyczny – zdania i tłumaczenia są prezentowane automatycznie, bez konieczności wykonywania dodatkowych czynności.</br>
-• Półautomatyczny – tłumaczenie pojawia się po określonym czasie, a użytkownik ocenia, czy znał poprawną odpowiedź.</br>
-• Ręczny – użytkownik sam decyduje, kiedy wyświetlić tłumaczenie, a następnie ocenia, czy znał dane zdanie.</br></br>
+• Półautomatyczny – tłumaczenie pojawia się po określonym czasie, a użytkownik ocenia, czy je znał.</br>
+• Ręczny – użytkownik sam decyduje, kiedy wyświetlić tłumaczenie, a następnie ocenia, czy je znał.</br></br>
 Dodatkowo program może odczytywać zdania na głos, pomagając rozwijać umiejętność rozumienia ze słuchu i poprawną wymowę.</br></br>
 Program obsługuje wiele profili użytkowników, dzięki czemu każda osoba może uczyć się we własnym tempie i zachować własne postępy.
 
@@ -24,7 +24,7 @@ Program obsługuje wiele profili użytkowników, dzięki czemu każda osoba moż
 
 ## Zgłaszanie błędów i opinii
 Jeśli chcesz zgłosić błąd lub przesłać mi opinie, możesz to zrobić wysyłając mi e-mail na ![alt text](https://raw.githubusercontent.com/ProperCode/Work-by-Speech/master/other/images/email.jpg) .
-Proszę o podanie jak największej ilości informacji i, jeśli to konieczne, dołączenie zrzutów ekranu(ów).
+Proszę o podanie jak największej ilości informacji i, jeśli to konieczne, dołączenie zrzutów ekranu.
 
 ## Moje inne projekty open source
 [Work by Speech](https://github.com/ProperCode/Work-by-Speech)<br/><br/>
