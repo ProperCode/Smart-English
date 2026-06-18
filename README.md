@@ -11,8 +11,8 @@ Program wykorzystuje inteligentny system powtórek, który pozwala skupić się 
 Zdania, które zostały już opanowane nie są już wyświetlane, dzięki czemu nauka jest szybsza i bardziej efektywna.</br></br>
 Nauka jest podzielona na poziomy zaawansowania od A1 do C1, co umożliwia stopniowe rozwijanie znajomości języka.</br></br>
 Smart English oferuje trzy tryby nauki:</br>
-• Automatyczny – zdania i tłumaczenia są prezentowane automatycznie, bez konieczności wykonywania dodatkowych czynności.
-• Półautomatyczny – tłumaczenie pojawia się po określonym czasie, a użytkownik ocenia, czy znał poprawną odpowiedź.
+• Automatyczny – zdania i tłumaczenia są prezentowane automatycznie, bez konieczności wykonywania dodatkowych czynności.</br>
+• Półautomatyczny – tłumaczenie pojawia się po określonym czasie, a użytkownik ocenia, czy znał poprawną odpowiedź.</br>
 • Ręczny – użytkownik sam decyduje, kiedy wyświetlić tłumaczenie, a następnie ocenia, czy znał dane zdanie.</br></br>
 Dodatkowo program może odczytywać zdania na głos, pomagając rozwijać umiejętność rozumienia ze słuchu i poprawną wymowę.</br></br>
 Program obsługuje wiele profili użytkowników, dzięki czemu każda osoba może uczyć się we własnym tempie i zachować własne postępy.
