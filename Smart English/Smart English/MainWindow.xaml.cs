@@ -47,6 +47,8 @@ namespace Smart_English
             {
                 update_app_if_necessary();
 
+                saving_enabled = false;
+
                 this.Title = Middle_Man.prog_name + " " + Middle_Man.prog_version;
 
                 Lnazwa_profilu.Content = "Nazwa profilu: " + Middle_Man.profile_name;

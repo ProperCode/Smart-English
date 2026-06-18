@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mikol\\Documents\\Visual Studio 2022\\Projects\\Smart English\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9EF2075-204F-9C5A-F3D3-3FA410695083}|Smart English\\Smart English.csproj|c:\\users\\mikol\\documents\\visual studio 2022\\projects\\smart english\\smart english\\middle_man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9EF2075-204F-9C5A-F3D3-3FA410695083}|Smart English\\Smart English.csproj|solutionrelative:smart english\\middle_man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9EF2075-204F-9C5A-F3D3-3FA410695083}|Smart English\\Smart English.csproj|c:\\users\\mikol\\documents\\visual studio 2022\\projects\\smart english\\smart english\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9EF2075-204F-9C5A-F3D3-3FA410695083}|Smart English\\Smart English.csproj|solutionrelative:smart english\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EF2075-204F-9C5A-F3D3-3FA410695083}|Smart English\\Smart English.csproj|c:\\users\\mikol\\documents\\visual studio 2022\\projects\\smart english\\smart english\\middle_man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EF2075-204F-9C5A-F3D3-3FA410695083}|Smart English\\Smart English.csproj|solutionrelative:smart english\\middle_man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Middle_Man.cs",
               "DocumentMoniker": "C:\\Users\\mikol\\Documents\\Visual Studio 2022\\Projects\\Smart English\\Smart English\\Middle_Man.cs",
               "RelativeDocumentMoniker": "Smart English\\Middle_Man.cs",
               "ToolTip": "C:\\Users\\mikol\\Documents\\Visual Studio 2022\\Projects\\Smart English\\Smart English\\Middle_Man.cs",
               "RelativeToolTip": "Smart English\\Middle_Man.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T22:52:03.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mikol\\Documents\\Visual Studio 2022\\Projects\\Smart English\\Smart English\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Smart English\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\mikol\\Documents\\Visual Studio 2022\\Projects\\Smart English\\Smart English\\MainWindow.xaml.cs",
               "RelativeToolTip": "Smart English\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAPYBAAAAAAAAAAAmwBUCAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwDEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T20:25:44.706Z"
+              "WhenOpened": "2026-06-15T20:25:44.706Z",
+              "EditorCaption": ""
             }
           ]
         }
