@@ -23,8 +23,9 @@ Program obsługuje wiele profili użytkowników, dzięki czemu każda osoba moż
 ![alt text](https://github.com/ProperCode/Smart-English/blob/main/inne/screenshots/Screenshot%202.jpg)
 
 ## Zgłaszanie błędów i opinii
-Jeśli chcesz zgłosić błąd lub przesłać mi opinie, możesz to zrobić wysyłając mi e-mail na ![alt text](https://raw.githubusercontent.com/ProperCode/Work-by-Speech/master/other/images/email.jpg) .
-Proszę o podanie jak największej ilości informacji i, jeśli to konieczne, dołączenie zrzutów ekranu.
+Jeśli chcesz zgłosić błąd lub przesłać mi opinię, możesz to zrobić korzystając z poniższych linków:
+[Zgłoś błąd](https://github.com/ProperCode/Smart-English/issues)<br/><br/>
+[Prześlij opinię](https://github.com/ProperCode/Smart-English/discussions)
 
 ## Moje inne projekty open source
 [Work by Speech](https://github.com/ProperCode/Work-by-Speech)<br/><br/>
