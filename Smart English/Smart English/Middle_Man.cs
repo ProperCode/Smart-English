@@ -11,7 +11,7 @@ namespace Smart_English
     static class Middle_Man
     {
         public static string prog_name = "Smart English";
-        public static string prog_version = "1.0";
+        public static string prog_version = "1.1";
         public static string latest_version = "";
         public static string copyright_text = "Copyright © 2026 Mikołaj Magowski. Wszystkie prawa zastrzeżone.";
 
@@ -24,7 +24,7 @@ namespace Smart_English
         public static string users_directory_path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\\" + prog_name + "\\";
         public static string profiles_folder_path = users_directory_path + "Profile" + "\\";
         public static string app_folder_path = AppDomain.CurrentDomain.BaseDirectory;
-        public static string bases_folder_path = app_folder_path + "Bazy" + "\\";
+        public static string bases_folder_path = app_folder_path + "Bazy";
         public static string bases_folder_name = "Bazy";
         public static string profiles_file_path = users_directory_path + profiles_filename;
         public static string last_profile_path = users_directory_path + last_profile_filename;

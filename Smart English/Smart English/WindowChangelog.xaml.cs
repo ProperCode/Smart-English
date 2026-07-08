@@ -15,8 +15,9 @@ namespace Smart_English
 
                 TB.IsReadOnly = true;
 
-                TB.Text = "[1.1] - , 2026:"
-                + "\n- ";
+                TB.Text = "[1.1] - 8 lipca 2026:"
+                + "\n- Bazy, które użytkownik opanował są od teraz oznaczone kolorem zielonym."
+                + "\n- Dodano idiomy i czasowniki nieregularne.";
             }
             catch (Exception ex)
             {

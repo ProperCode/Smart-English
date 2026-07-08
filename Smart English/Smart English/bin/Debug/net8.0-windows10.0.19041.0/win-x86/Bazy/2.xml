@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sentence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sentence>
+    <sentence_en>Stop beating around the bush and just tell me what happened.</sentence_en>
+    <sentence_pl>Przestań owijać w bawełnę i po prostu powiedz mi, co się stało.</sentence_pl>
+    <remembered>false</remembered>
+  </Sentence>
+  <Sentence>
+    <sentence_en>We were planning a surprise, but Tim spilled the beans.</sentence_en>
+    <sentence_pl>Planowaliśmy niespodziankę, ale Tim wygadał się.</sentence_pl>
+    <remembered>false</remembered>
+  </Sentence>
+</Sentence>

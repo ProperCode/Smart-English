@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sentence>
+    <sentence_en>arise</sentence_en>
+    <sentence_pl>arose, arisen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>awake</sentence_en>
+    <sentence_pl>awoke, awoken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>be</sentence_en>
+    <sentence_pl>was/were, been</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bear</sentence_en>
+    <sentence_pl>bore, borne/born</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>beat</sentence_en>
+    <sentence_pl>beat, beaten</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>become</sentence_en>
+    <sentence_pl>became, become</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>begin</sentence_en>
+    <sentence_pl>began, begun</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bend</sentence_en>
+    <sentence_pl>bent, bent</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bet</sentence_en>
+    <sentence_pl>bet, bet</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bid</sentence_en>
+    <sentence_pl>bid, bid</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bind</sentence_en>
+    <sentence_pl>bound, bound</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bite</sentence_en>
+    <sentence_pl>bit, bitten</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bleed</sentence_en>
+    <sentence_pl>bled, bled</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>blow</sentence_en>
+    <sentence_pl>blew, blown</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>break</sentence_en>
+    <sentence_pl>broke, broken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>breed</sentence_en>
+    <sentence_pl>bred, bred</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>bring</sentence_en>
+    <sentence_pl>brought, brought</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>broadcast</sentence_en>
+    <sentence_pl>broadcast, broadcast</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>build</sentence_en>
+    <sentence_pl>built, built</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>burn</sentence_en>
+    <sentence_pl>burnt/burned, burnt/burned</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>burst</sentence_en>
+    <sentence_pl>burst, burst</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>buy</sentence_en>
+    <sentence_pl>bought, bought</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>catch</sentence_en>
+    <sentence_pl>caught, caught</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>choose</sentence_en>
+    <sentence_pl>chose, chosen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>cling</sentence_en>
+    <sentence_pl>clung, clung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>come</sentence_en>
+    <sentence_pl>came, come</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>cost</sentence_en>
+    <sentence_pl>cost, cost</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>creep</sentence_en>
+    <sentence_pl>crept, crept</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>cut</sentence_en>
+    <sentence_pl>cut, cut</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>deal</sentence_en>
+    <sentence_pl>dealt, dealt</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>dig</sentence_en>
+    <sentence_pl>dug, dug</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>do</sentence_en>
+    <sentence_pl>did, done</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>draw</sentence_en>
+    <sentence_pl>drew, drawn</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>dream</sentence_en>
+    <sentence_pl>dreamed/dreamt, dreamed/dreamt</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>drink</sentence_en>
+    <sentence_pl>drank, drunk</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>drive</sentence_en>
+    <sentence_pl>drove, driven</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>eat</sentence_en>
+    <sentence_pl>ate, eaten</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>fall</sentence_en>
+    <sentence_pl>fell, fallen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>feed</sentence_en>
+    <sentence_pl>fed, fed</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>feel</sentence_en>
+    <sentence_pl>felt, felt</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>fight</sentence_en>
+    <sentence_pl>fought, fought</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>find</sentence_en>
+    <sentence_pl>found, found</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>flee</sentence_en>
+    <sentence_pl>fled, fled</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>fling</sentence_en>
+    <sentence_pl>flung, flung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>fly</sentence_en>
+    <sentence_pl>flew, flown</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>forbid</sentence_en>
+    <sentence_pl>forbade, forbidden</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>forget</sentence_en>
+    <sentence_pl>forgot, forgotten</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>forgive</sentence_en>
+    <sentence_pl>forgave, forgiven</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>freeze</sentence_en>
+    <sentence_pl>froze, frozen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>get</sentence_en>
+    <sentence_pl>got, got/gotten</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>give</sentence_en>
+    <sentence_pl>gave, given</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>go</sentence_en>
+    <sentence_pl>went, gone</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>grow</sentence_en>
+    <sentence_pl>grew, grown</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>hang</sentence_en>
+    <sentence_pl>hung, hung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>have</sentence_en>
+    <sentence_pl>had, had</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>hear</sentence_en>
+    <sentence_pl>heard, heard</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>hide</sentence_en>
+    <sentence_pl>hid, hidden</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>hit</sentence_en>
+    <sentence_pl>hit, hit</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>hold</sentence_en>
+    <sentence_pl>held, held</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>hurt</sentence_en>
+    <sentence_pl>hurt, hurt</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>keep</sentence_en>
+    <sentence_pl>kept, kept</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>kneel</sentence_en>
+    <sentence_pl>knelt/kneeled, knelt/kneeled</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>know</sentence_en>
+    <sentence_pl>knew, known</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>lay</sentence_en>
+    <sentence_pl>laid, laid</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>lead</sentence_en>
+    <sentence_pl>led, led</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>lean</sentence_en>
+    <sentence_pl>leant/leaned, leant/leaned</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>leap</sentence_en>
+    <sentence_pl>leapt/leaped, leapt/leaped</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>leave</sentence_en>
+    <sentence_pl>left, left</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>lend</sentence_en>
+    <sentence_pl>lent, lent</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>let</sentence_en>
+    <sentence_pl>let, let</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>lie (recline)</sentence_en>
+    <sentence_pl>lay, lain</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>light</sentence_en>
+    <sentence_pl>lit/lighted, lit/lighted</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>lose</sentence_en>
+    <sentence_pl>lost, lost</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>make</sentence_en>
+    <sentence_pl>made, made</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>mean</sentence_en>
+    <sentence_pl>meant, meant</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>meet</sentence_en>
+    <sentence_pl>met, met</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>pay</sentence_en>
+    <sentence_pl>paid, paid</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>prove</sentence_en>
+    <sentence_pl>proved, proved/proven</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>put</sentence_en>
+    <sentence_pl>put, put</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>read</sentence_en>
+    <sentence_pl>read, read</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>ride</sentence_en>
+    <sentence_pl>rode, ridden</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>ring</sentence_en>
+    <sentence_pl>rang, rung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>rise</sentence_en>
+    <sentence_pl>rose, risen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>run</sentence_en>
+    <sentence_pl>ran, run</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>say</sentence_en>
+    <sentence_pl>said, said</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>see</sentence_en>
+    <sentence_pl>saw, seen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>seek</sentence_en>
+    <sentence_pl>sought, sought</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sell</sentence_en>
+    <sentence_pl>sold, sold</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>send</sentence_en>
+    <sentence_pl>sent, sent</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>set</sentence_en>
+    <sentence_pl>set, set</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>shake</sentence_en>
+    <sentence_pl>shook, shaken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>shine</sentence_en>
+    <sentence_pl>shone/shined, shone/shined</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>shoot</sentence_en>
+    <sentence_pl>shot, shot</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>show</sentence_en>
+    <sentence_pl>showed, shown</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>shut</sentence_en>
+    <sentence_pl>shut, shut</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sing</sentence_en>
+    <sentence_pl>sang, sung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sink</sentence_en>
+    <sentence_pl>sank, sunk</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sit</sentence_en>
+    <sentence_pl>sat, sat</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sleep</sentence_en>
+    <sentence_pl>slept, slept</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>slide</sentence_en>
+    <sentence_pl>slid, slid</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>speak</sentence_en>
+    <sentence_pl>spoke, spoken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>spend</sentence_en>
+    <sentence_pl>spent, spent</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>spin</sentence_en>
+    <sentence_pl>spun, spun</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>spread</sentence_en>
+    <sentence_pl>spread, spread</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>stand</sentence_en>
+    <sentence_pl>stood, stood</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>steal</sentence_en>
+    <sentence_pl>stole, stolen</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>stick</sentence_en>
+    <sentence_pl>stuck, stuck</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sting</sentence_en>
+    <sentence_pl>stung, stung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>stink</sentence_en>
+    <sentence_pl>stank, stunk</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>strike</sentence_en>
+    <sentence_pl>struck, struck/stricken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>swear</sentence_en>
+    <sentence_pl>swore, sworn</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>sweep</sentence_en>
+    <sentence_pl>swept, swept</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>swim</sentence_en>
+    <sentence_pl>swam, swum</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>swing</sentence_en>
+    <sentence_pl>swung, swung</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>take</sentence_en>
+    <sentence_pl>took, taken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>teach</sentence_en>
+    <sentence_pl>taught, taught</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>tear</sentence_en>
+    <sentence_pl>tore, torn</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>tell</sentence_en>
+    <sentence_pl>told, told</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>think</sentence_en>
+    <sentence_pl>thought, thought</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>throw</sentence_en>
+    <sentence_pl>threw, thrown</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>understand</sentence_en>
+    <sentence_pl>understood, understood</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>wake</sentence_en>
+    <sentence_pl>woke, woken</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>wear</sentence_en>
+    <sentence_pl>wore, worn</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>weep</sentence_en>
+    <sentence_pl>wept, wept</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>win</sentence_en>
+    <sentence_pl>won, won</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+  <sentence>
+    <sentence_en>write</sentence_en>
+    <sentence_pl>wrote, written</sentence_pl>
+    <remembered>false</remembered>
+  </sentence>
+</sentence>

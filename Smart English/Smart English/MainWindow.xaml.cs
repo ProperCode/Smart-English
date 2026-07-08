@@ -5,12 +5,14 @@ using System.IO;
 using System.Media;
 using System.Net.Http;
 using System.Speech.Synthesis;
+using System.Speech.Synthesis;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Threading;
 using System.Xml;
 using System.Xml.Serialization;
-using System.Speech.Synthesis;
 
 namespace Smart_English
 {
@@ -21,6 +23,8 @@ namespace Smart_English
     {
         bool saving_enabled = false;
         bool loading_error = false;
+
+        Thread THRmarker; //do oznaczania baz z których użytkownik się nauczył wszystkich zdań na zielono (w zdarzeniu loaded() się nie da)
 
         public MainWindow()
         {
@@ -49,7 +53,7 @@ namespace Smart_English
 
                 saving_enabled = false;
 
-                this.Title = Middle_Man.prog_name + " " + Middle_Man.prog_version;
+                this.Title = Middle_Man.prog_name;
 
                 Lnazwa_profilu.Content = "Nazwa profilu: " + Middle_Man.profile_name;
 
@@ -65,6 +69,8 @@ namespace Smart_English
                 TBliczba_ukonczen_all.Text = "0";
 
                 restore_default_settings();
+
+                copy_missing_bases();
 
                 string bases_xml_file_path = Middle_Man.profiles_folder_path + Middle_Man.profile_name + "\\" + Middle_Man.bases_filename;
 
@@ -94,10 +100,47 @@ namespace Smart_English
                     save_settings(); //save settings so loading error won't happen again (default values
                                      //will take place of unread values)
                 }
+
+                THRmarker = new Thread(new ThreadStart(mark_green_bases));
+                THRmarker.Start(); //zdarzenie loaded() nie działa
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Błąd MW002", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        void copy_missing_bases()
+        {
+            try
+            {
+                string profile_directory_path = Middle_Man.profiles_folder_path + Middle_Man.profile_name;
+                string profile_bases_directory = profile_directory_path + "\\" + Middle_Man.bases_folder_name;
+
+                if (Directory.Exists(profile_bases_directory) == false)
+                {
+                    Directory.CreateDirectory(profile_bases_directory);
+                }
+
+                if (Directory.Exists(profile_bases_directory) && Directory.Exists(Middle_Man.bases_folder_name))
+                {
+                    string[] allfiles = Directory.GetFiles(Middle_Man.bases_folder_name, "*.*", SearchOption.TopDirectoryOnly);
+
+                    foreach (string file in allfiles)
+                    {
+                        string[] tab = file.Split(new string[] { "\\" }, StringSplitOptions.RemoveEmptyEntries);
+                        string file_name = tab[tab.Length - 1];
+
+                        if (File.Exists(profile_bases_directory + "\\" + file_name) == false)
+                        {
+                            File.Copy(file, profile_bases_directory + "\\" + file_name);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Błąd MW002a", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
@@ -498,6 +541,26 @@ namespace Smart_English
                         CBglos_pol.Items.Add(voice.VoiceInfo.Name);
                     }
                     else if (voice.VoiceInfo.Name.Contains("Paulina"))
+                    {
+                        voices_PL.Add(voice.VoiceInfo.Name);
+                        CBglos_pol.Items.Add(voice.VoiceInfo.Name);
+                    }
+                }
+
+                //Zabezpieczenie, gdyby Microsoft zmienił nazwy wszystkich głosów
+                if (CBglos_ang.Items.Count == 0)
+                {
+                    foreach (InstalledVoice voice in list)
+                    {
+                        voices_EN.Add(voice.VoiceInfo.Name);
+                        CBglos_ang.Items.Add(voice.VoiceInfo.Name);
+                    }
+                }
+
+                //Zabezpieczenie, gdyby Microsoft zmienił nazwy wszystkich głosów
+                if (CBglos_pol.Items.Count == 0)
+                {
+                    foreach (InstalledVoice voice in list)
                     {
                         voices_PL.Add(voice.VoiceInfo.Name);
                         CBglos_pol.Items.Add(voice.VoiceInfo.Name);
@@ -1348,6 +1411,7 @@ namespace Smart_English
                     TBnr_zdania.Text = "1";
 
                     save_bases();
+                    calculate_remaining_time();
                 }
             }
             catch (Exception ex)
@@ -1478,6 +1542,12 @@ namespace Smart_English
 
                     create_bases_file();
 
+                    for (int i = 0; i < LBbazy.Items.Count; i++)
+                    {
+                        ListBoxItem item = (ListBoxItem)LBbazy.ItemContainerGenerator.ContainerFromIndex(i);
+                        item.Foreground = Brushes.Black;
+                    }
+
                     if (LBbazy.SelectedIndex != -1)
                     {
                         int id = LBbazy.SelectedIndex;
@@ -1503,6 +1573,89 @@ namespace Smart_English
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Błąd MW043", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        void mark_green_bases() //zdarzenie loaded() nie działa
+        { 
+            Thread.Sleep(1200); //200 to minimum
+
+            try
+            {
+                string profile_directory_path = Middle_Man.profiles_folder_path + Middle_Man.profile_name;
+                string profile_bases_directory = profile_directory_path + "\\" + "Bazy";
+
+                if (Directory.Exists(profile_bases_directory))
+                {
+                    for (int i = 0; i < LBbazy.Items.Count; i++)
+                    {
+                        int remembered = 0;
+                        int count = 0;
+
+                        string file_name = profile_bases_directory + @"\" + LBbazy.Items[i].ToString() + ".xml";
+
+                        List<Sentence> list = new List<Sentence>();
+
+                        XmlDocument doc = new XmlDocument();
+                        XmlReader rdr = null;
+                        XmlNodeReader noderdr = null;
+
+                        XmlReaderSettings settings = new XmlReaderSettings();
+                        settings.ConformanceLevel = ConformanceLevel.Auto;
+                        settings.IgnoreComments = true;
+                        settings.IgnoreWhitespace = true;
+
+                        try
+                        {
+                            Sentence S;
+                            bool s3 = false;
+
+                            doc.Load(file_name);
+                            noderdr = new XmlNodeReader(doc);
+                            rdr = XmlReader.Create(noderdr, settings);
+
+                            while (rdr.Read())
+                            {
+                                if (rdr.NodeType == XmlNodeType.Element)
+                                {
+                                    if (rdr.Name == "sentence_en")
+                                    {
+                                        rdr.Read();
+                                    }
+                                    if (rdr.Name == "sentence_pl")
+                                    {
+                                        rdr.Read();
+                                    }
+                                    if (rdr.Name == "remembered")
+                                    {
+                                        rdr.Read();
+                                        s3 = Convert.ToBoolean(rdr.Value);
+
+                                        if (s3 == true) remembered++;
+                                        count++;
+                                    }
+                                }
+                            }
+
+                            if (remembered == count)
+                            {
+                                this.Dispatcher.Invoke(DispatcherPriority.Normal, new Action(() => {
+                                    ListBoxItem item = (ListBoxItem)LBbazy.ItemContainerGenerator.ContainerFromIndex(i);
+                                    if (item != null)
+                                        item.Foreground = Brushes.Green;
+                                }));
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.Message, "Błąd MW045", MessageBoxButton.OK, MessageBoxImage.Error);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Błąd MW046", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 

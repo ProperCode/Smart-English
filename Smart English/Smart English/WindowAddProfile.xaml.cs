@@ -129,7 +129,7 @@ namespace Smart_English
 
                 string profile_directory_path = Middle_Man.profiles_folder_path + nazwa_profilu;
                 string old_profile_directory_path = Middle_Man.profiles_folder_path + old_profile_name;
-                string profile_bases_directory = profile_directory_path + "\\" + "Bazy";
+                string profile_bases_directory = profile_directory_path + "\\" + Middle_Man.bases_folder_name;
 
                 if (Create == true)
                 {
@@ -148,7 +148,7 @@ namespace Smart_English
                                 string[] tab = file.Split(new string[] { "\\" }, StringSplitOptions.RemoveEmptyEntries);
                                 string file_name = tab[tab.Length - 1];
 
-                                File.Copy(file, profile_directory_path + "\\" + Middle_Man.bases_folder_name + "\\" + file_name);
+                                File.Copy(file, profile_bases_directory + "\\" + file_name);
                             }
                         }
                     }

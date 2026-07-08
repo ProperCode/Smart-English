@@ -1,7 +1,9 @@
 ﻿using System.IO;
 using System.Media;
 using System.Windows;
+using System.Windows.Controls;
 using System.Windows.Documents;
+using System.Windows.Media;
 using System.Windows.Threading;
 
 namespace Smart_English
@@ -82,9 +84,19 @@ namespace Smart_English
 
                     this.Dispatcher.Invoke(DispatcherPriority.Normal,
                         new Action(() => { Ppolish.Inlines.Add(new Run(sentence_pl)); }));
-                    if (Middle_Man.czytaj_po_pol == true && running == true)
+                    if (base_name == "Czasowniki nieregularne")
                     {
-                        Middle_Man.read(false, sentence_pl);
+                        if (Middle_Man.czytaj_po_ang == true && running == true)
+                        {
+                            Middle_Man.read(true, sentence_pl);
+                        }
+                    }
+                    else
+                    {
+                        if (Middle_Man.czytaj_po_pol == true && running == true)
+                        {
+                            Middle_Man.read(false, sentence_pl);
+                        }
                     }
                     if (running == true)
                         Thread.Sleep(sentence_pl.Length * Middle_Man.time_per_char + Middle_Man.opoznienie_po_zdaniu * 1000);
@@ -114,7 +126,7 @@ namespace Smart_English
                         new Action(() => { _mainWindow.TBliczba_ukonczen_all.Text = (int.Parse(_mainWindow.TBliczba_ukonczen_all.Text) + 1).ToString(); }));
                     Middle_Man.total_completions++;
 
-                    _mainWindow.Dispatcher.Invoke(DispatcherPriority.Normal,
+                    this.Dispatcher.Invoke(DispatcherPriority.Normal,
                         new Action(() => { this.Close(); }));
                 }
             }

@@ -26,11 +26,11 @@ namespace Smart_English
                 paragraph.Inlines.Add(new Run(" oznaczyć jako niezapamiętane klikając w przycisk \"Zresetuj postępy w nauce\"."));
                 paragraph.Inlines.Add(new Bold(new Run("\n\n3. Tryby nauki:")));
                 paragraph.Inlines.Add(new Bold(new Run("\n- Automatyczny")));
-                paragraph.Inlines.Add(new Run(" - w tym trybie zdania są prezentowane automatycznie po zadanym czasie. Wartość \"Dodatkowego opóźnienia po pojawieniu się"));
-                paragraph.Inlines.Add(new Run(" zdania\" i \"Opóźnienia pomiędzy nauką kolejnych zdań\" ma wpływ na szybkość nauki w tym trybie. Korzystanie z systemu powtórek nie działa w tym trybie."));
+                paragraph.Inlines.Add(new Run(" - w tym trybie zdania są prezentowane automatycznie po zadanym czasie. Wartości ustawień \"Dodatkowego opóźnienia po pojawieniu się"));
+                paragraph.Inlines.Add(new Run(" zdania\" i \"Opóźnienia pomiędzy nauką kolejnych zdań\" mają wpływ na szybkość nauki w tym trybie. System powtórek nie działa w tym trybie."));
                 paragraph.Inlines.Add(new Run(" Pozostały czas nauki dla wybranej bazy w tym trybie jest wyświetlany w głównym oknie programu w polu grupowym \"Informacje i statystyki\"."));
                 paragraph.Inlines.Add(new Bold(new Run("\n- Półautomatyczny")));
-                paragraph.Inlines.Add(new Run(" - w tym trybie tłumaczenie zdania pojawia się po zadanym czasie. Wartość \"Dodatkowego opóźnienia po pojawieniu się"));
+                paragraph.Inlines.Add(new Run(" - w tym trybie tłumaczenie zdania pojawia się po zadanym czasie. Wartość ustawienia \"Dodatkowego opóźnienia po pojawieniu się"));
                 paragraph.Inlines.Add(new Run(" zdania\" ma wpływ na szybkość nauki w tym trybie. Kliknięcie przycisku \"Wiedziałem\" skutkuje oznaczeniem danego zdania jako zapamiętanego i to"));
                 paragraph.Inlines.Add(new Run(" zdanie nie będzie pojawiać się przy następnych naukach z danej bazy. Kliknięcie przycisku \"Nie wiedziałem\" oznacza, że dane zdanie"));
                 paragraph.Inlines.Add(new Run(" pojawi się przy następnej nauce z danej bazy."));
@@ -39,7 +39,7 @@ namespace Smart_English
                 paragraph.Inlines.Add(new Run(" i \"Nie wiedziałem\" funkcjonują w tym trybie tak samo jak w trybie półautomatycznym."));
                 paragraph.Inlines.Add(new Bold(new Run("\n\n4. Resetowanie postępów w nauce:")));
                 paragraph.Inlines.Add(new Run("\n- Kilka lat po nauczeniu się wszystkich baz zalecane jest zresetowanie zapamiętanych zdań poprzez przycisk \"Zresetuj postępy w nauce\""));
-                paragraph.Inlines.Add(new Run(" i rozpoczęcie nauki na nowo."));
+                paragraph.Inlines.Add(new Run(" i rozpoczęcie nauki na nowo. Bazy, które użytkownik opanował są oznaczone kolorem zielonym."));
 
                 RTB.Document.Blocks.Add(paragraph);
             }

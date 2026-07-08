@@ -67,8 +67,10 @@ namespace Smart_English
         {
             try
             {
-                //WindowChangelog wc = new WindowChangelog();
-                //wc.Show();
+                WindowChangelog w = new WindowChangelog();
+                w.Owner = Application.Current.MainWindow;
+                w.ShowInTaskbar = false;
+                w.ShowDialog();
             }
             catch (Exception ex)
             {
