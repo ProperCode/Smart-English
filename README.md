@@ -7,7 +7,9 @@
 
 Smart English uczy 5000 najczęściej używanych angielskich słów poprzez zdania, dzięki czemu użytkownik poznaje słownictwo w naturalnym kontekście. 
 W zdaniach jest łącznie 7511 unikalnych angielskich słów co odpowiada poziomowi C1.</br></br>
-Program wykorzystuje inteligentny system powtórek, który pozwala skupić się na materiale wymagającym utrwalenia. 
+Oprócz tego program uczy odmian 126 najważniejszych czasowników regularnych oraz 200 najważniejszych idiomów.
+</br></br>
+Smart English wykorzystuje inteligentny system powtórek, który pozwala skupić się na materiale wymagającym utrwalenia. 
 Zdania, które zostały już opanowane nie są już wyświetlane, dzięki czemu nauka jest szybsza i bardziej efektywna.</br></br>
 Nauka jest podzielona na poziomy zaawansowania od A1 do C1, co umożliwia stopniowe rozwijanie znajomości języka.</br></br>
 Smart English oferuje trzy tryby nauki:</br>
