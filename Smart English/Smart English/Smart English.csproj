@@ -12,6 +12,7 @@
 	<PublishSingleFile>true</PublishSingleFile>
     <SelfContained>true</SelfContained>
     <RuntimeIdentifier>win-x86</RuntimeIdentifier>
+    <Company>Mikołaj Magowski</Company>
   </PropertyGroup>
 
   <ItemGroup>

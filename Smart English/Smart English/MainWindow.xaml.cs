@@ -5,7 +5,6 @@ using System.IO;
 using System.Media;
 using System.Net.Http;
 using System.Speech.Synthesis;
-using System.Speech.Synthesis;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;

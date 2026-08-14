@@ -11,7 +11,7 @@ namespace Smart_English
     static class Middle_Man
     {
         public static string prog_name = "Smart English";
-        public static string prog_version = "1.1";
+        public static string prog_version = "1.2";
         public static string latest_version = "";
         public static string copyright_text = "Copyright © 2026 Mikołaj Magowski. Wszystkie prawa zastrzeżone.";
 

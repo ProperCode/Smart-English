@@ -233,7 +233,6 @@ C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\hostfxr.dll
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\hostpolicy.dll
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\mscordaccore.dll
-C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\mscordaccore_x86_x86_8.0.2826.26413.dll
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\mscordbi.dll
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\mscorrc.dll
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\msquic.dll
@@ -501,3 +500,4 @@ C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net8.0-windows10.0.19041.0\win-x86\Smart English.pdb
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net8.0-windows10.0.19041.0\win-x86\Smart English.genruntimeconfig.cache
 C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\obj\Debug\net8.0-windows10.0.19041.0\win-x86\ref\Smart English.dll
+C:\Users\mikol\Documents\Visual Studio 2022\Projects\Smart English\Smart English\bin\Debug\net8.0-windows10.0.19041.0\win-x86\mscordaccore_x86_x86_8.0.3026.36720.dll
